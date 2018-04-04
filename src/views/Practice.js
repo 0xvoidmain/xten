@@ -109,14 +109,14 @@ export default class Practice extends TimerComponent {
       words: words
     }];
 
-    // result = result.concat(_.shuffle(this.createOption(words, 'en', 'en1')));
-    // result = result.concat(_.shuffle(this.createOption(words, 'vi', 'vi1')));
-    // result = result.concat(_.shuffle(
-    //   _.flatten([
-    //     this.createOption(words, 'vi', 'vi2'),
-    //     this.createOption(words, 'en', 'en2')
-    //   ])
-    // ));
+    result = result.concat(_.shuffle(this.createOption(words, 'en', 'en1')));
+    result = result.concat(_.shuffle(this.createOption(words, 'vi', 'vi1')));
+    result = result.concat(_.shuffle(
+      _.flatten([
+        this.createOption(words, 'vi', 'vi2'),
+        this.createOption(words, 'en', 'en2')
+      ])
+    ));
     result = result.concat(_.shuffle(
       _.flatten([
         this.createType(words, 'type1'),
