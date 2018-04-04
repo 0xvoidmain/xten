@@ -1,0 +1,3673 @@
+id,en,vi,wordClass
+0,character,"tính cách,đặc tính",n
+1,living,"sống,đang sống",adj
+2,housing,nơi ăn chốn ở,n
+3,success,"sự thành công,sự thành đạt",n
+4,household,"hộ,gia đình",n
+5,household,gia đình,adj
+6,massive,"to lớn,đồ sộ",adj
+7,plot,"mảnh đất nhở,sơ đồ,đồ thị",n
+8,plot,"vẽ sơ đồ,dựng đồ án",v
+9,require,"đòi hỏi,yêu cầu",v
+10,gold,vàng,n
+11,gold,bằng vàng,adj
+12,planet,hành tinh,n
+13,hollow,"rỗng,trống rỗng",adj
+14,space,"khoảng trống,khoảng cách",n
+15,railway,đường sắt,n
+16,invention,"sự phát minh,sự sáng chế",n
+17,result,kết quả,n
+18,result,"bởi,do.. mà ra",v
+19,autumn,mùa thu,n
+20,violence,"sự ác liệt,sự dữ dội",n
+21,want,muốn,v
+22,gray,"xám,hoa râm",adj
+23,grant,"cho,ban",v
+24,grant,"sự cho,sự ban",n
+25,clearly,"rõ ràng,sáng sủa",adv
+26,reality,"sự thật,thực tế",n
+27,agree,"đồng ý,tán thành",v
+28,beneath,"ở dưới,dưới thấp",prep
+29,core,"nòng cốt,hạt nhân",n
+30,enthusiasm,"sự hăng hái,sự nhiệt tình",n
+31,ocean,đại dương,n
+32,tie,"buộc,cột",v
+33,tie,"dây buộc,dây trói",n
+34,mentally,về mặt tinh thần,adv
+35,flame,ngọn lửa,n
+36,consideration,"sự cân nhắc,sự xem xét,sự để ý",n
+37,quick,nhanh,adj
+38,chemical,thuộc hóa học,adj
+39,chemical,"chất hóa học,hóa chất",n
+40,afford,"có thể,có đủ khả năng",v
+41,below,"ở dưới,dưới thấp",prep
+42,coloured,"mang màu sắc,có màu sắc",adj
+43,divorced,đã ly dị,adj
+44,impose,"đánh,bắt gánh vác",v
+46,whenever,"bất cứ lúc nào,lúc nào",conj
+47,poem,bài thơ,n
+48,surprise,"sự ngạc nhiên,sự bất ngờ",n
+49,surprise,làm ngạc nhiên,v
+50,emotionally,xúc động,adv
+51,fishing,"sự câu cá,sự đánh cá",n
+52,unhappiness,"nỗi buồn,sự bất hạnh",n
+53,height,"chiều cao,độ cao",n
+54,intention,"ý định,mục đích",n
+55,partnership,"sự chung phần,sự cộng tác",n
+56,loan,sự vay mượn,n
+57,feature,"nét đặt biệt,điểm đặc trưng",n
+58,feature,mô tả nét đặc biệt,v
+59,tent,"lều,rạp",n
+60,disapprove of,"không tán thành,phản đối",v
+61,centre,"điểm giữa,trung tâm",n
+62,thanks,"sự cảm ơn,lời cảm ơn",n
+63,shop,cửa hàng,n
+64,shop,"đi mua hàng,đi chợ",v
+65,dangerous,nguy hiểm,adj
+66,region,"vùng,miền",n
+67,track,phần của đĩa,n
+68,military,"quân đội,quân sự",adj
+69,confirm,"xác nhận,chứng thực",v
+70,opponent,"địch thủ,đối thủ",n
+71,easily,dễ dàng,adv
+72,apparently,"nhìn bên ngoài,hình như",adv
+73,artistic,"thuộc nghệ thuật,thuộc mỹ thuật",adj
+74,far,xa,adv
+75,farmer,"nông dân,người chủ trại",n
+76,brain,óc não,n
+77,pleasantly,"vui vẻ,dễ thương",adv
+78,economy,"sự tiết kiệm,sự quản lý kinh tế",n
+79,estimate,"sự ước lượng,đánh giá",n
+80,estimate,"ước lượng,đánh giá",v
+81,plenty,"pro nhiều,sự thừa",n
+82,plenty,"sự sung túc,sự phong phú",adv
+83,metal,kim loại,n
+84,signal,"dấu hiệu,tín hiệu",n
+85,signal,"ra hiệu,báo hiệu",v
+86,historical,"lịch sử,thuộc lịch sử",adj
+87,separated,ly thân,adj
+88,common,"công,công cộng,thông thường",adj
+89,agency,"tác dụng,lực",n
+90,bitter,đắng,adj
+91,moment,"chốc,lát",n
+92,respect,"sự kính trọng,sự lễ phép",n
+93,respect,"tôn trọng,kính trọng",v
+94,vision,"sự nhìn,thị lực",n
+95,waist,"eo,chỗ thắt lưng",n
+96,sudden,"thình lình,đột ngột",adj
+97,pencil,bút chì,n
+98,admit,"nhận vào,cho vào",v
+99,recording,"sự ghi,sự thu âm",n
+100,happen,"xảy ra,xảy đến",v
+101,highly,"tốt,cao",adv
+102,reference,"sự tham khảo,hỏi ý kiến",n
+103,independently,độc lập,adv
+104,freeze,"sự đông lạnh,sự giá lạnh",n
+105,freeze,"làm đông,làm đóng băng",v
+106,pension,"tiền trợ cấp,lương hưu",n
+107,promise,"hứa,lời hứa",v
+108,varied,"thuộc nhiều loại khác nhau,những vẻ đa dạng",adj
+109,sticky,"dính,nhớt",adj
+110,function,chức năng,n
+111,function,"họat động,chạy",v
+112,history,"lịch sử,sử học",n
+113,priority,"sự ưu tế,quyền ưu tiên",n
+114,up,"ở trên,lên trên",adv
+115,promote,"thăng chức,thăng cấp",v
+116,wake,"thức dậy,tỉnh thức",v
+117,genuine,"thành thật,chân thật",adj
+119,pollution,sự ô nhiễm,n
+120,industry,"công nghiệp,kỹ nghệ",n
+121,enough,pro đủ,n
+122,understanding,"trí tuệ,sự hiểu biết",n
+123,diet,"chế độ ăn uống,chế độ ăn kiêng",n
+124,following,"prep.tiếp theo,theo sau",adj
+125,following,"sau,tiếp theo",n
+126,discuss,"thảo luận,tranh luận",v
+127,accurate,"đúng đắn,chính xác",adj
+128,blankly,"ngây ra,không có thần",adv
+129,serve,"phục vụ,phụng sự",v
+130,side,"mặt,mặt phẳng",n
+131,unfortunate,"không may,rủi ro",adj
+132,occasionally,"thỉnh thoảng,đôi khi",adv
+133,advanced,"tiên tiến,tiến bộ",adj
+134,ton,tấn,n
+135,unfriendly,"không thân thiện,không có thiện cảm",adj
+136,writing,sự viết,n
+137,suffering,"sự đau đớn,sự đau khổ",n
+138,appreciate,thấy rõ,v
+139,government,"chính phủ,nội các",n
+140,determine,"xác định,định rõ",v
+141,spite,"sự giận,sự hận thù",n
+142,famous,nổi tiếng,adj
+143,long,"dài,xa",adj
+144,long,lâu,adv
+145,injured,"bị tổn thương,bị xúc phạm",adj
+146,injury,"sự làm tổn thương,làm hại",n
+147,actual,"thực tế,có thật",adj
+148,unfortunately,"một cách đáng tiếc,một cách không may",adv
+149,slip,"trượt,tuột,trôi qua",v
+150,sweet,"ngọt,có vị ngọt",adj
+151,sweet,"sự ngọt bùi,đồ ngọt",n
+152,ball,quả bóng,n
+153,way,"đường,đường đi",n
+154,bottle,"chai,lọ",n
+155,give birth,sinh ra,+to
+156,pale,"tái,nhợt",adj
+157,delight,"sự vui thích,sự vui sướng",n
+158,delight,"làm vui thích,làm say mê",v
+159,appointment,"sự bổ nhiệm,người được bổ nhiệm",n
+160,shade,"bóng,bóng tối",n
+161,own,"pro của chính mình,tự mình",adj
+162,own,"nhận,nhìn nhận",n
+163,gentle,"hiền lành,dịu dàng",adj
+164,employ,"dùng,thuê ai làm gì",v
+165,risk,"sự liều,mạo hiểm",n
+166,risk,liều,v
+167,logic,lô gic,n
+168,nut,quả hạch,n
+169,interest,"sự thích thú,sự quan tâm",n
+170,interest,"làm quan tâm,chú ý",v
+171,cloud,"mây,đám mây",n
+172,committee,ủy ban,n
+173,necessary,"cần,cần thiết",adj
+174,ending,"sự kết thúc,sự chấm dứt",n
+175,building,"sự xây dựng,công trình xây dựng",n
+176,train,"xe lửa,tàu hỏa",n
+177,train,"dạy,rèn luyện",v
+178,exit,"lỗi ra,sự đi ra",n
+179,make up,"đồ hóa trang,son phấn",n
+180,size,cỡ,n
+181,rail,đường ray,n
+182,skill,"kỹ năng,kỹ sảo",n
+183,candidate,"người ứng cử,thí sinh",n
+184,summer,mùa hè,n
+185,guarantee,"sự bảo hành,bảo lãnh",n
+186,guarantee,"cam đoan,đảm bảo",v
+187,rest,"sự nghỉ ngơi,lúc nghỉ",n
+188,rest,"nghỉ,nghỉ ngơi",v
+189,interpret,giải thích,v
+190,impossible,"không thể làm được,không thể xảy ra",adj
+191,broad,rộng,adj
+192,appearance,"sự xuất hiện,sự trình diện",n
+193,decoration,"sự trang hoàng,đồ trang hoàng",n
+194,surrounding,"bao quanh,vây quanh",adj
+195,tiring,"sự mệt mỏi,sự mệt nhọc",adj
+196,garbage,"lòng,ruột",n
+197,argument,lý lẽ,n
+198,speech,"sự nói,khả năng nói,lời nói",n
+199,telephone,"máy điện thoại,gọi điện thoại",n
+200,perfectly,một cách hoàn hảo,adv
+201,plain,"ngay thẳng,đơn giản",adj
+202,finished,"hoàn tất,hoàn thành",adj
+203,harmless,không có hại,adj
+204,determination,"sự xác định,sự định rõ",n
+205,withdraw,"rút,rút khỏi",v
+206,cake,bánh ngọt,n
+207,insect,"sâu bọ,côn trùng",n
+208,direction,"sự điều khiển,sự chỉ huy",n
+209,contact,"sự liên lạc,sự giao thiệp",n
+210,contact,tiếp xúc,v
+211,racing,cuộc đua,n
+212,grey,"xám,hoa râm",adj
+213,regret,"đáng tiếc,hối tiếc",v
+214,regret,"lòng thương tiếc,sự hối tiếc",n
+215,minute,phút,n
+216,suck,"bú,hút",v
+217,capital,"thủ đô,tiền vốn",n
+218,capital,"chủ yếu,chính yếu",adj
+219,accuse,"tố cáo,buộc tội",v
+220,proud,"tự hào,kiêu hãnh",adj
+221,female,thuộc giống cái,adj
+222,female,giống cái,n
+223,reply,"sự trả lời,sự hồi âm",n
+224,reply,"trả lời,hồi âm",v
+225,tear,"xé,làm rắch",v
+226,tear,"chỗ rách,miếng xe",n
+227,drugstore,"hiệu thuốc,cửa hàng dược phẩm",n
+228,armed,vũ trang,adj
+229,useless,"vô ích,vô dụng",adj
+230,introduce,giới thiệu,v
+231,weekend,cuối tuần,n
+232,always,luôn luôn,adv
+233,thinking,"sự suy nghĩ,ý nghĩ",n
+234,bowl,cái bát,n
+235,allow,"cho phép,để cho",v
+236,yourself,"pro tự anh,tự chị,chính anh",n
+237,act,"hành động,hành vi,cử chỉ",n
+238,branch,ngành,n
+239,suited,"hợp,phù hợp",adj
+240,debate,"cuộc tranh luận,cuộc tranh cãi",n
+241,debate,"tranh luận,bàn cãi",v
+242,football,bóng đá,n
+243,unemployment,"sự thất nghiệp,tình trạng thất nghiệp",n
+244,economic,Kinh tế,adj
+245,superior,"cao hơn,mạnh hơn,người cấp trên",n
+246,squeeze,"ép,vắt",v
+247,squeeze,"sự ép,sự vắt",n
+248,complicated,"phức tạp,rắc rối",adj
+249,unreasonable,vô lý,adj
+250,unable,"không có năng lực,không có tài",adj
+251,encourage,"động viên,ủng hộ,giúp đỡ",v
+252,emotion,"sự xúc động,sự cảm động",n
+253,cut,"cắt,chặt",v
+254,cut,sự cắt,n
+255,break,"bẻ gãy,đập vỡ",v
+256,break,"sự gãy,sự vỡ",n
+257,laugh,cười,v
+258,laugh,tiếng cười,n
+259,type,"loại,kiểu",n
+260,type,"phân loại,xếp loại",v
+261,wild,"dại,hoang",adj
+262,fight,"đấu tranh,chiến đấu",v
+263,fight,"sự đấu tranh,cuộc chiến đấu",n
+264,impact,"sự và chạm,sự tác động",n
+265,willing,"bằng lòng,vui lòng",adj
+266,suggest,"đề nghị,đề xuất",v
+267,expect,"chờ đợi,mong ngóng",v
+268,persuade,thuyết phục,v
+269,knee,đầu gối,n
+270,plastic,"chất dẻo,làm bằng chất dẻo",n
+271,ultimately,"cuối cùng,sau cùng",adv
+272,location,"vị trí,sự định vị",n
+273,flavour,"vị,mùi",n
+274,flavour,"cho gia vị,làm tăng thêm mùi vị",v
+275,intelligence,"sự hiểu biết,trí thông minh",n
+276,warning,"sự báo trước,lời cảnh báo",n
+277,lump,"cục,tảng",n
+278,treat,"đối xử,đối đãi",v
+279,speaker,"người nói,người diễn thuyết",n
+280,advice,"lời khuyên,lời chỉ bảo",n
+281,object,"vật,vật thể",n
+282,award,phần thưởng,n
+283,award,"tặng,thưởng",v
+284,export,xuất khẩu,v
+285,export,"hàng xuất khẩu,sự xuất khẩu",n
+286,across,"qua,ngang qua",adv
+287,identify,"nhận biết,nhận ra",v
+288,layer,lớp,n
+289,match,"trận thi đấu,đối thủ",n
+290,match,"đối chọi,sánh được",v
+291,collapse,"đổ,sụp đổ",v
+292,collapse,"sự đổ nát,sự sụp đổ",n
+293,earn,"kiếm,giành",v
+294,clear,"lau chùi,quét dọn",adj
+295,situation,"hoàn cảnh,địa thế",n
+296,suspicion,"sự nghi ngờ,sự ngờ vực",n
+297,vary,"thay đổi,làm cho khác nhau",v
+298,mouth,miệng,n
+299,decision,"sự quyết định,sự giải quyết",n
+300,regulation,"sự điều chỉnh,điều lệ",n
+301,curb,"kiềm chế,nén lại",v
+302,prove,"chứng tỏ,chứng minh",v
+303,specially,"đặc biệt,riêng biệt",adv
+304,courage,"sự can đảm,sự dũng cảm",n
+305,bake,"nung,nướng bằng lò",v
+306,amuse,"làm cho vui,thích,làm buồn cười",v
+307,novel,"tiểu thuyết,truyện",n
+308,laboratory,phòng thí nghiệm,n
+309,wind,"gió,quấn lại",n
+310,proof,"chứng,chứng cớ",n
+311,metre,mét,n
+312,pepper,"hạt tiêu,cây ớt",n
+313,rent,sự thuê mướn,n
+314,rent,"cho thuê,thuê",v
+315,acquire,"dành được,đạt được",v
+316,lesson,bài học,n
+317,rub,"cọ xát,xoa bóp,nghiền",v
+318,hard,"cứng,rắn",adj
+319,hard,"hết sức cố gắng,tích cực",adv
+320,arrival,"sự đến,sự tới nơi",n
+321,meaning,"ý,ý nghĩa",n
+322,define,định nghĩa,v
+323,worth,"đáng giá,có giá trị",adj
+324,accidental,"tình cờ,bất ngờ",adj
+325,motor,động cơ mô tô,n
+326,lack,sự thiếu,n
+327,lack,thiếu,v
+328,peaceful,"hòa bình,thái bình",adj
+329,complete,"hoàn thành,xong",adj
+330,downstairs,"ở dưới nhà,ở tầng dưới",adv
+331,downstairs,"xuống gác,tầng dưới",adj
+332,perhaps,"có thể,có lẽ",adv
+333,painting,sự sơn,n
+334,decorative,"để trang hoàng,để trang trí",adj
+335,screw,"đinh vít,đinh ốc",n
+336,screw,"bắt vít,bắt ốc",v
+337,dot,"chấm nhỏ,điểm",n
+338,choose,"chọn,lựa chọn",v
+339,steady,"vững chắc,vững vàng",adj
+340,cell,"ô,ngăn",n
+341,urgent,"gấp,khẩn cấp",adj
+342,trend,"phương hướng,xu hướng",n
+343,faucet,vòi,n
+344,excuse,"lời xin lỗi,bào chữa",n
+345,excuse,"xin lỗi,tha thứ",v
+346,closed,"bảo thủ,không cởi mở",adj
+347,link,"mắt xích,mối liên lạc",n
+348,link,"liên kết,kết nối",v
+349,ask,hỏi,v
+350,freely,"tự do,thoải mái",adv
+351,locate,"xác định vị trí,định vị",v
+352,steam,hơi nước,n
+353,soup,"xúp,canh",n
+354,finish,"kết thúc,hoàn thành",v
+355,finish,"sự kết thúc,phần cuối",n
+356,evidence,"điều hiển nhiên,điều rõ ràng",n
+357,swelling,"sự sưng lên,sự phồng ra",n
+358,area,"diện tích,bề mặt",n
+359,hold,"cầm,nắm",v
+360,hold,"sự cầm,sự nắm giữ",n
+361,back,"lưng",n
+363,moral,có đạo đức,adj
+364,pound,pao - đơn vị đo lường,n
+365,create,"sáng tạo,tạo nên",v
+366,annoying,"chọc tức,làm bực mình",adj
+367,silk,"tơ,chỉ",n
+368,reproduce,tái sản xuất,v
+369,parent,"cha,mẹ",n
+370,lucky,"gặp may,gặp may mắn",adj
+371,season,mùa,n
+372,tube,"ống,tuýp",n
+373,worry,"lo lắng,suy nghĩ",v
+374,worry,"sự lo lắng,suy nghĩ",n
+375,label,"nhãn,mác",n
+376,label,"dán nhãn,ghi mác",v
+377,anyway,"thế nào cũng được,dù sao chăng nữa",adv
+378,combine,"kết hợp,phối hợp",v
+379,competition,"sự cạnh tranh,cuộc thi",n
+380,possess,"có,chiếm hữu",v
+381,bear,"mang,cầm,vác",v
+382,spoon,cái thìa,n
+383,search,"sự tìm kiếm,sự thăm dò",n
+384,search,"tìm kiếm,thăm dò",v
+385,ingredient,"phần hợp thành,thành phần",n
+386,bacteria,vi khuẩn,n
+387,philosophy,"triết học,triết lý",n
+388,illustrate,"minh họa,làm rõ ý",v
+389,birthday,"ngày sinh,sinh nhật",n
+390,stable,"ổn định,bình tĩnh",adj
+391,stable,chuồng ngưa,n
+392,former,"trước,cũ,xưa",adj
+393,gear,"cơ cấu,thiết bị",n
+394,post,"thư,bưu kiện",n
+395,post,gửi thư,v
+396,upsetting,"tính đánh đổ,làm đổ",adj
+397,truck,rau quả tươi,n
+398,gamble,đánh bạc,v
+399,gamble,cuộc đánh bạc,n
+400,special,"đặc biệt,riêng biệt",adj
+401,intended,"có ý định,có dụng ý",adj
+402,unhappy,"buồn rầu,khốn khổ",adj
+403,smash,"đập,vỡ tan thành mảnh",v
+404,smash,"sự đập,vỡ tàn thành mảnh",n
+405,improvement,"sự cái thiện,sự cải tiến",n
+406,generate,"sinh,đẻ ra",v
+407,factor,nhân tố,n
+408,aside,"về một bên,sang một bên",adv
+409,collection,"sự sưu tập,sự tụ họp",n
+410,brush,bàn chải,n
+411,brush,"chải,quét",v
+412,pay attention,chú ý tới,+to
+413,journey,cuộc hành trình,n
+415,physical,vật chất,adj
+416,physical,"cơ thể,thân thể",n
+417,lose,"mất,thua",v
+418,whisper,"nói thì thầm,xì xào",v
+419,whisper,"tiếng nói thì thầm,tiếng xì xào",n
+420,generation,"sự sinh ra,sự phát sinh ra",n
+421,due,đến kỳ hạn,adj
+423,chance,sự may mắn,n
+424,plane,"mặt phẳng,mặt bằng",n
+425,drug,"thuốc,dược phẩm",n
+426,immediately,ngay lập tức,adv
+427,unfair,"gian lận,không công bằng",adj
+428,bored,buồn chán,adj
+429,appoint,"bổ nhiệm,chỉ định",v
+430,complex,"phức tạp,rắc rối",adj
+431,claim,"đòi hỏi,yêu sách",v
+432,claim,"sự đòi hỏi,sự yêu sách",n
+433,chemist,nhà hóa học,n
+434,disadvantage,"sự bất lợi,sự thiệt hại",n
+435,put,"đặt,để",v
+436,unemployed,"không dùng,thất nghiệp",adj
+437,observation,"sự quan sát,sự theo dõi",n
+438,device,kế sách,n
+439,grade,"điểm,điểm số",n
+440,grade,"phân loại,xếp loại",v
+441,automatically,một cách tự động,adv
+442,curtain,màn,n
+443,fail,"sai,thất bại",v
+444,buy,mua,v
+445,control,"sự điều khiển,quyền hành,quyền lực",n
+446,whose,pro của ai,n
+447,seal,hải cẩu,n
+448,seal,săn hải cẩu,v
+449,influence,"sự ảnh hưởng,sự tác dụng",n
+450,influence,"ảnh hưởng,tác động",v
+451,missing,"vắng,thiếu",adj
+452,covered,"có mái che,kín đáo",adj
+453,fly,bay,v
+454,fly,"sự bay,quãng đường bay",n
+455,delivery,"sự phân phát,sự phân phối",n
+456,deep,"sâu,khó lường",adj
+457,geography,"địa lý,khoa địa lý",n
+458,scare,"làm kinh hãi,sợ hãi",v
+459,scare,"sự sợ hãi,sự kinh hoàng",n
+460,entry,"sự ghi vào sổ sách,sự đi vào",n
+461,unexpectedly,"bất ngờ,đột ngột",adv
+462,formal,"trang trọng,theo nghi thức",adj
+463,assistance,sự giúp đỡ,n
+464,grammar,"ngữ pháp,văn phạm",n
+465,unimportant,không quan trọng,adj
+466,unreasonable,vô lý,adj
+467,film,"phim,được dựng thành phim",n
+468,receive,"nhận,lĩnh",v
+469,plug,nút,n
+470,gambling,trò cờ bạc,n
+471,tax,thuế,n
+472,tax,đánh thuế,v
+473,faint,"nhút nhát,yếu ớt",adj
+474,dentist,nha sĩ,n
+475,stupid,"ngu ngốc,ngu đần",adj
+476,presence,"sự hiện diện,sự có mặt",n
+477,biology,sinh vật học,n
+478,smoothly,"một cách êm ả,trôi chảy",adv
+479,simply,"một cách dễ dàng,giản dị",adv
+480,stuff,"chất liệu,chất",n
+481,once,một lần,adv
+482,once,"khi mà,ngay khi",conj
+483,officially,"một cách trịnh trọng,một cách chính thứ",adv
+484,royal,"vua,nữ hoàng",adj
+485,shift,"đổi chỗ,dời chỗ,chuyển",v
+486,shift,"sự thay đổi,sự luân phiên",n
+487,steep,"dốc,dốc đứng",adj
+488,untidy,"không gọn gàng,không ngăn nắp",adj
+489,because of,"vì,do bởi",prep
+490,rid,giải thoát,v
+491,equally,"bằng nhau,ngang bằng",adv
+492,even,"ngay cả,ngay",adv
+493,even,"bằng phẳng,điềm đạm",adj
+494,unite,"liên kết,hợp nhất,hợp lại",v
+495,commission,"hội đồng,ủy ban,sự ủy nhiệm",n
+496,seriously,"đứng đắn,nghiêm trang",adv
+497,presumably,"có thể được,có lẽ",adv
+498,teacher,giáo viên,n
+499,rule,"quy tắc,điều lệ",n
+500,rule,"cai trị,chỉ huy",v
+501,raw,"sống,thô",adj
+502,permit,"/'pə:mit/ cho phép,cho cơ hội",v
+503,scheme,"sự sắp xếp,sự phối hợp",n
+504,race,"loài,chủng",n
+505,race,cuộc đua,v
+506,reasonable,"có lý,hợp lý",adj
+507,use,"sử dụng,dùng",v
+508,use,"sự dùng,sự sử dụng",n
+509,target,"bia,mục tiêu",n
+510,focus,tập trung,v
+511,focus,"trung tâm,trọng tâm",n
+512,captain,"người cầm đầu,người chỉ huy",n
+513,suit,"bộ com lê,trang phục",n
+514,suit,"thích hợp,quen",v
+515,build,xây dựng,v
+516,council,hội đồng,n
+517,festival,"lễ hội,đại hội liên hoan",n
+518,tiny,"rất nhỏ,nhỏ xíu",adj
+519,push,xô đẩy,v
+520,push,sự xô đẩy,n
+521,personal,"cá nhân,tư",adj
+522,effective,"có kết quả,có hiệu lực",adj
+523,giant,"người khổng lồ,người phi thường",n
+524,giant,"khổng lồ,phi thường",adj
+525,impressive,gây ấn tượng mạnh,adj
+526,ridiculous,"buồn cười,lố bịch",adj
+527,communication,"sự giao tiếp,liên lạc,sự truyền đạt",n
+528,drag,"lôi kéo,kéo lê",v
+529,west,"phía Tây,theo phía tây",n
+530,adequately,"tương xứng,thỏa đáng",adv
+531,politician,"nhà chính trị,chính khách",n
+532,amazing,"kinh ngạc,sửng sốt",adj
+533,invite,mời,v
+534,document,"văn kiện,tài liệu",n
+535,reach,"đến,đi đến",v
+536,northern,Bắc,adj
+537,sorry,"xin lỗi,lấy làm tiếc",adj
+538,invest,đầu tư,v
+539,awkwardly,"vụng về,lung túng",adv
+540,approach,"đến gần,lại gần",v
+541,approach,"sự đến gần,sự lại gần",n
+542,could,có thể,v
+543,web,"mạng,lưới",n
+544,offend,"xúc phạm,làm bực mình",v
+545,already,"đã,rồi",adv
+546,reason,"lý do,lý lẽ",n
+547,wall,"tường,vách",n
+548,assist,"giúp,giúp đỡ",v
+549,bin,"thùng,thùng đựng rượu",n
+550,further,"xa hơn nữa,thêm nữa",adj
+551,nuclear,hạt nhân,adj
+552,carry,"mang,vác",v
+553,edition,"nhà xuất bản,sự xuất bản",n
+554,cough,"ho,sự ho",v
+555,still,đứng yên,adv
+556,still,"vẫn,vẫn còn",adj
+557,few,"pro ít,vài",adj
+558,few,"một ít,một vài",n
+559,left,bên trái,adv
+560,left,về phía trái,n
+561,adapt,"tra,lắp vào",v
+562,written,"viết ra,được thảo ra",adj
+563,thirsty,"khát,cảm thấy khát",adj
+564,nicely,"thú vị,dễ chịu",adv
+565,justify,"bào chữa,biện hộ",v
+566,finance,tài chính,n
+567,finance,"tài trợ,cấp vốn",v
+568,beauty,"vẻ đẹp,cái đẹp",n
+569,indoors,ở trong nhà,adv
+570,mobile,"chuyển động,di động",adj
+571,lively,"sống,sinh động",adj
+572,defend,"che chở,bảo vệ",v
+573,alcoholic,"rượu,người nghiện rượu",adj
+574,heating,"sự đốt nóng,sự làm nóng",n
+575,practical,thực hành,adj
+576,occupy,"giữ,chiếm lĩnh",v
+577,alphabet,"bảng chữ cái,bước đầu",n
+578,resolve,"quyết tâm,ý kiên quyết",n
+579,resolve,giải quyết,v
+580,text,"nguyên văn,bản văn,chủ đề",n
+581,end,"giới hạn,sự kết thúc",n
+582,end,"kết thúc,chấm dứt",v
+583,alternatively,như một sự lựa chọn,adv
+584,twin,"sinh đôi,tạo thành cặp",n
+585,twin,cặp song sinh,adj
+588,between,"giữa,ở giữa",prep
+589,permanently,"cách thường xuyên,vĩnh cửu",adv
+590,advantage,"sự thuận lợi,lợi ích",n
+591,publish,"công bố,ban bố",v
+592,provided,"với điều kiện là,miễn là",conj
+593,amount,"số lượng,số nhiều",n
+594,amount,lên tới,v
+595,solid,rắn,adj
+596,solid,"thể rắn,chất rắn",n
+597,victim,nạn nhân,n
+598,aspect,"vẻ bề ngoài,diện mạo",n
+599,refer to,"xem,tham khảo",v
+600,original,"gốc,nguồn gốc",adj
+601,original,nguyên bản,n
+602,length,"chiều dài,độ dài",n
+603,ticket,vé,n
+604,struggle,đấu tranh,v
+605,struggle,"cuộc đấu tranh,cuộc chiến đấu",n
+606,fever,"cơn sốt,bệnh sốt",n
+607,context,"văn cảnh,khung cảnh",n
+608,sick,"ốm,đau",adj
+609,charge,"nhiệm vụ,bổn phận",n
+610,charge,"giao nhiệm vụ,giao việc",v
+611,stripe,"sọc,vằn",n
+612,wrap,"gói,bọc",v
+613,significantly,đáng kể,adv
+614,employment,sự thuê mướn,n
+615,medical,y học,adj
+616,raise,"nâng lên,đưa lên",v
+617,desperately,"liều lĩnh,liều mạng",adv
+618,national,"quốc gia,dân tộc",adj
+619,disgust,"làm ghê tởm,làm kinh tởm",v
+620,false,"sai,nhầm",adj
+621,centimetre,xen ti met,n
+622,nature,"tự nhiên,thiên nhiên",n
+623,thoroughly,"kỹ lưỡng,thấu đáo",adv
+624,call,gọi,v
+625,call,"tiếng kêu,tiếng gọi",n
+626,dear,"thân,thân yêu",adj
+627,curious,"ham muốn,tò mò",adj
+628,statement,"sự bày tỏ,sự phát biểu",n
+629,responsible,"chịu trách nhiệm về,chịu trách nhiệm trước ai",adj
+630,decorate,"trang hoàng,trang trí",v
+631,loudly,"ầm ĩ,inh ỏi",adv
+632,alarmed,báo động,adj
+633,and,và,conj
+634,measure,"đo,đo lường",v
+635,measure,"sự đo lường,đơn vị đo lường",n
+636,aware,"biết,nhận thức",adj
+637,desk,bàn,n
+638,wide,"rộng,rộng lớn",adj
+639,share,"đóng góp,tham gia",v
+640,share,"phần đóng góp,phần tham gia",n
+641,release,"làm nhẹ,bớt,thả",v
+642,release,"sự giải thoát,thoát khỏi",n
+643,embarrassed,"lúng túng,bối rối",adj
+644,think,"nghĩ,suy nghĩ",v
+645,particularly,"một cách đặc biệt,cá biệt",adv
+646,firm,"hãng,công ty",n
+647,firm,"chắc,kiên quyết",adj
+648,apple,quả táo,n
+649,crucial,"quyết định,cốt yếu",adj
+650,borrow,"vay,mượn",v
+651,cool,"mát mẻ,điềm tĩnh",adj
+652,cool,làm mát,v
+653,regarding,"về,về việc",prep
+654,news,"tin,tin tức",n
+655,artificial,nhân tạo,adj
+656,other,pro khác,adj
+657,tired,"mệt,muốn ngủ",adj
+658,row,"hàng,dãy",n
+659,supermarket,siêu thị,n
+660,button,"cái nút,cái khuy",n
+661,attempt,"sự cố gắng,sự thử",n
+662,attempt,"cố gắng,thử",v
+663,quantity,"lượng,số lượng",n
+664,leather,"bỏ đi,rời đi",v
+665,march,"diễu hành,hành quân",v
+666,march,"cuộc hành quân,cuộc diễu hành",n
+667,dissolve,"tan rã,phân hủy",v
+668,nerve,"khí lực,thần kinh",n
+669,conventional,quy ước,adj
+670,ruler,"người cai trị,người trị vì",n
+671,alarming,"làm lo sợ,làm hốt hoảng",adj
+672,unlucky,"không gặp may,bất hạnh",adj
+673,bone,xương,n
+674,presentation,"bài thuyết trình,sự trình diện",n
+675,precise,"rõ ràng,chính xác",adj
+676,devoted,"hiến cho,dâng cho",adj
+677,importance,"sự quan trọng,tầm quan trọng",n
+678,usual,"thông thường,thường dùng",adj
+679,pair,"đôi,cặp",n
+680,another,"khác",n
+681,ally,"nước đồng minh,liên minh",n
+682,ally,"liên kết,kết thông gia",v
+683,escape,"trốn thoát,thoát khỏi",v
+684,escape,"sự trốn thoát,lỗi thoát",n
+685,replace,thay thế,v
+686,indirect,gián tiếp,adj
+687,roof,"mái nhà,nóc",n
+688,awful,"oai nghiêm,dễ sợ",adj
+689,winter,mùa đông,n
+690,religious,tôn giáo,adj
+691,successfully,"thành công,thắng lợi",adv
+692,routine,"thói thường,lệ thường",n
+693,routine,"thường lệ,thông thường",adj
+694,see,"nhìn,nhìn thấy",v
+695,pronounce,"tuyên bố,thông báo",v
+696,extent,"quy mô,phạm vi",n
+697,unknown,"không biết,không được nhận ra",adj
+698,definitely,"rạch ròi,dứt khoát",adv
+699,hearing,"sự nghe,thính giác",n
+700,towel,"khăn tắm,khăn lau",n
+701,air,"không khí,bầu không khí",n
+702,file,"hồ sơ,tài liệu",n
+703,will,sẽ,v
+704,will,"ý chí,ý định",n
+705,last,"lầm cuối,sau cùng",adv
+706,last,người cuối cùng,n
+707,restore,"hoàn lại,trả lại",v
+708,public,"chung,công cộng",adj
+709,public,"công chúng,nhân dân",n
+710,editor,"người thu thập và xuất bản,chủ bút",n
+711,entertainer,"người quản trò,người tiếp đãi",n
+712,cheerfully,"vui vẻ,phấn khởi",adv
+713,close,"gần,thân thiết,chặt chẽ,đóng",v
+714,shallow,"nông,cạn",adj
+715,thin,"mỏng,mảnh",adj
+716,narrow,"hẹp,chật hẹp",adj
+717,producer,nhà sản xuất,n
+718,strike,"đánh,đập,bãi công",v
+719,strike,"cuộc bãi công,cuộc đình công",n
+720,thick,dày,adj
+721,human,"con người,loài người",adj
+722,force,sức mạnh,n
+723,force,"ép buộc,cưỡng ép",v
+724,post office,bưu điện,n
+725,argue,"chứng tỏ,chỉ rõ",v
+726,some,"pro một it,một vài",n
+727,message,"tin nhắn,thư tín,điện thông báo",n
+728,tonne,tấn,n
+729,transport,"sự vận chuyển,sự vận tải",v
+730,transport,"chuyên chở,phương tiện đi lại",n
+731,response,"sự trả lời,câu trả lời,sự hưởng ứng",n
+732,prisoner,tù nhân,n
+733,clap,"vỗ,vỗ tay",v
+734,clap,"tiếng nổ,tiếng vỗ tay",n
+735,imaginary,"tưởng tượng,ảo",adj
+736,affect,"làm ảnh hưởng,tác động đến",v
+737,particular,"riêng biệt,cá biệt",adj
+738,attached,gắn bó,adj
+739,delicate,"thanh nhã,thanh tú,tế nhị",adj
+740,anything,"pro việc gì,vật gì",n
+741,letter,thư,n
+742,crush,"ép,vắt,đè nát",v
+743,badly,"xấu,tồi",adv
+744,domestic,"vật nuôi trong nhà,nội trợ",adj
+745,bound,"nhất định,chắc chắn",+to
+746,international,quốc tế,adj
+747,individual,"riêng,riêng biệt",adj
+748,individual,cá nhân,n
+749,fairly,"hợp lý,công bằng",adv
+750,assure,"đảm bảo,cam đoan",v
+751,seed,"hạt,hạt giống",n
+752,useful,"hữu ích,giúp ích",adj
+753,teach,dạy,v
+754,minister,bộ trưởng,n
+755,definition,"sự định nghĩa,lời định nghĩa",n
+756,well,"tốt,giỏi",adv
+757,well,"ôi,may quá!",adj
+758,minimum,tối thiểu,adj
+759,minimum,"số lượng tối thiểu,mức tối thiểu",n
+760,onto,"về phía trên,lên trên",prep
+761,root,"gốc,rễ",n
+762,perform,biểu diễn,v
+763,noisily,"ồn ào,huyên náo",adv
+764,harmful,"gây tai hại,có hại",adj
+765,bar,quán bán rượu,n
+766,professional,"nghề,nghề nghiệp",adj
+767,professional,chuyên nghiệp,n
+768,qualify,"đủ khả năng,đủ tư cách",v
+769,spend,"tiêu,xài",v
+770,organized,"có trật tự,ngăn nắp,được sắp xếp",adj
+771,promptly,"mau lẹ,ngay lập tức",adv
+772,medium,"trung bình,trung",adj
+773,medium,"sự trung gian,sự môi giới",n
+774,mass,"khối,khối lượng",n
+775,mass,"quần chúng,đại chúng",adj
+776,poetry,thi ca,n
+777,comment,"lời bình luận,lời chú giải",n
+778,comment,"bình luận,phê bình,chú thích",v
+779,weekly,"mỗi tuần một lần,hàng tuần",adj
+780,manufacture,"sự chế tạo,sự sản xuất,chế tạo",v
+781,flesh,thịt,n
+782,recently,"gần đây,mới đây",adv
+783,basis,"nền tảng,cơ sở",n
+784,magazine,tạp chí,n
+785,bottom,"phần dưới cùng,thấp nhất",n
+786,bottom,"cuối,cuối cùng",adj
+787,detail,chi tiết,n
+788,patient,bệnh nhân,n
+789,patient,"kiên nhẫn,nhẫn nại",adj
+790,criticize,"phê bình,phê phán",v
+791,bad-tempered,"xấu tính,dễ nổi cáu",adj
+792,sure,"chắc chắn,xác thực",adj
+793,current,"hiện hành,phổ biến",adj
+794,current,"dòng,luồng",n
+795,friendship,"tình bạn,tình hữu nghị",n
+796,burnt,"bị đốt,bị cháy",adj
+798,underground,"dưới mặt đất,ngầm dưới đất",adj
+799,underground,ngầm,adv
+800,discount,"sự bớt giá,sự chiết khấu,tiền bớt",n
+801,language,ngôn ngữ,n
+802,environmental,thuộc về môi trường,adj
+803,with,"với,cùng",prep
+804,maybe,"có thể,có lẽ",adv
+805,behaviour,"cách đối xử,cách ăn ở",n
+806,entire,"toàn thể,toàn bộ",adj
+807,strip,"cởi,lột",v
+808,strip,sự cởi quần áo,n
+810,previous,"trước",adv
+811,running,"sự chạy,cuộc chạy đua",n
+812,sex,"giới,giống",n
+813,camping,sự cắm trại,n
+814,outer,"ở phía ngoài,ở xa hơn",adj
+815,ugly,"xấu xí,xấu xa",adj
+816,grand,"rộng lớn,vĩ đại",adj
+817,cracked,"rạn,nứt",adj
+818,soap,xà phòng,n
+819,independent,độc lập,adj
+820,grandchild,cháu,n
+821,conclusion,"sự kết thúc,sự kết luận",n
+822,interview,"cuộc phỏng vấn,sự gặp mặt",n
+823,interview,"phỏng vấn,nói chuyện riêng",v
+824,excite,"kích thích,kích động",v
+825,coldly,"lạnh nhạt,hờ hững",adv
+826,daily,hàng ngày,adj
+827,rise,"sự lên,sự tăng lương",n
+828,rise,"dậy,đứng lên,mọc",v
+829,latest,"muộn nhất,chậm nhất",adj
+830,performer,"người biểu diễn,người trình diễn",n
+831,ministry,bộ,n
+832,heavy,"nặng,nặng nề",adj
+833,adopt,"nhận làm con nuôi,bố mẹ nuôi",v
+834,dancing,"sự nhảy múa,sự khiêu vũ",n
+835,surprising,"làm ngạc nhiên,làm bất ngờ",adj
+836,shooting,"sự bắn,sự phóng đi",n
+837,chain,"dây,xích",n
+838,chain,"xính lại,trói lại",v
+839,musician,nhạc sĩ,n
+840,mountain,núi,n
+841,material,nguyên vật liệu,n
+842,material,"vật chất,hữu hình",adj
+843,continent,"lục địa,đại lục",n
+844,satisfied,"cảm thấy hài lòng,vừa ý",adj
+845,distance,"khoảng cách,tầm xa",n
+846,confine,"giam giữ,hạn chế",v
+847,unsteady,"không đúng mực,không chắc",adj
+848,guest,"khách,khách mời",n
+849,worrying,"gây lo lắng,gây lo nghĩ",adj
+850,satisfying,"đem lại sự thỏa mãn,làm thỏa mãn",adj
+851,solve,"giải,giải thích",v
+852,neatly,"gọn gàng,ngăn nắp",adv
+853,unwilling,không muốn làm điều gì,adj
+854,feeling,"sự cảm thấy,cảm giác",n
+855,high,"cao,ở mức độ cao",adj
+856,disagreement,"sự bất đồng,sự không đồng ý",n
+857,hungry,đói,adj
+858,thickly,dày,adv
+859,wait,chờ đợi,v
+860,mere,chỉ là,adj
+861,competitive,"cạnh tranh,đua tranh",adj
+862,riding,"môn thể thao cưỡi ngựa,sự đi xe",n
+863,global,"v toàn cầu,toàn thể",adj
+864,faintly,"nhút nhát,yếu ớt",adv
+865,consumer,người tiêu dùng,n
+866,wage,"tiền lương,tiền công",n
+867,yawn,há miệng,v
+868,yawn,cử chỉ ngáp,n
+869,directly,"trực tiếp,thẳng",adv
+870,crack,"cừ,xuất sắc",n
+871,crack,"làm nứt,làm vỡ,nứt nẻ",v
+872,monitor,"lớp trưởng,màn hình máy tính",n
+873,monitor,"nghe,ghi phát thanh",v
+874,land,"đất,đất canh tác",n
+875,sweep,quét,v
+876,melt,"tan ra,chảy ra",v
+877,easy,"dễ dàng,dễ tính",adj
+878,unconscious,"bất tỉnh,không có ý thức",adj
+879,expensive,đắt,adj
+880,underneath,"dưới,bên dưới",prep
+881,tool,"dụng cụ,đồ dùng",n
+882,bother,"làm phiền,quấy rầy",v
+883,private,"cá nhân,riêng",adj
+884,die,"chết,từ trần",v
+885,organize,"tổ chức,thiết lập",v
+886,expand,"mở rộng,phát triển,nở",v
+887,wildly,"dại,hoang",adv
+888,thing,"cái,đồ",n
+889,anticipate,"thấy trước,chặn trước",v
+890,passage,"sự đi qua,sự trôi qua",n
+891,absolute,"tuyệt đối,hoàn toàn",adj
+892,consist of,gồm có,v
+893,concept,khái niệm,n
+894,majority,"phần lớn,đa số",n
+895,book,sách,n
+896,book,ghi chép,v
+897,gradually,"dần dần,từ từ",adv
+898,criterion,tiêu chuẩn,n
+899,crazy,"điên,mất trí",adj
+900,chin,cằm,n
+901,sensible,có óc xét đoán,adj
+902,dare,"dám,dám đương đầu với",v
+903,concentrate,tập trung,v
+904,elevator,"máy nâng,thang máy",n
+905,article,"bài báo,đề mục",n
+906,probably,hầu như chắc chắn,adv
+907,lazy,lười biếng,adj
+908,regional,"vùng,địa phương",adj
+909,yellow,vàng,adj
+910,yellow,màu vàng,n
+911,hip,hông,n
+912,steeply,"dốc,cheo leo",adv
+913,hospital,"bệnh viện,nhà thương",n
+914,soft,"mềm,dẻo",adj
+915,wound,"vết thương,thương tích",v
+916,wound,"làm bị thường,gây thương tích",n
+917,arise,"xuất hiện,nảy ra",v
+918,advance,"sự tiến bộ,tiến lên",n
+919,advance,"đưa lên,đề xuất",v
+920,freeze,"đóng băng,đông lạnh",v
+921,settle,"giải quyết,dàn xếp,hòa giải",v
+922,under,"dưới,ở dưới",adv
+923,league,"liên minh,liên hoàn",n
+924,handle,"cầm,sờ mó",v
+925,handle,"tay cầm,móc quai",n
+926,pool,vũng nước,n
+927,adequate,"đầy,đầy đủ",adj
+928,decline,"sự suy tàn,sự suy sụp",n
+929,decline,"suy sụp,suy tàn",v
+930,alone,"cô đơn,một mình",adj
+931,actress,diễn viên nữ,n
+932,cost,"giá,chi phí",n
+933,cost,"trả giá,phải trả",v
+934,earth,"đất,trái đất",n
+935,different,"khác,khác biệt",adj
+936,intelligent,"thông minh,sáng trí",adj
+937,value,"giá trị,ước tính",n
+938,panel,"ván ô,pa nô",n
+939,formalize,"nghi thức hóa,trang trọng hóa",v
+940,support,"sự chống đỡ,sự ủng hộ",n
+941,support,"chống đỡ,ủng hộ",v
+942,host,"chủ nhà,chủ tiệc",n
+943,host,"dẫn,đăng cai tổ chức",v
+944,route,"đường đi,lộ trình",n
+945,appropriate,"thích hợp,thích đáng",+to/for
+946,year,năm,n
+947,flood,"lụt,lũ lụt",n
+948,flood,"tràn đầy,tràn ngập",v
+949,curve,"đường cong,đường vòng",n
+950,curve,"cong,uốn cong",v
+951,credit,"sự tin,lòng tin",n
+952,category,"hạng,loại",n
+953,arrangement,"sự sắp xếp,sắp đặt",n
+954,whereas,"nhưng ngược lại,trong khi",conj
+955,cheap,rẻ,adj
+956,string,"dây,sợi dây",n
+957,irritated,"tức giận,cáu tiết",adj
+958,sometimes,"thỉnh thoảng,đôi khi",adv
+959,examination,"sự thi cử,kỳ thi",n
+960,bag,"bao,túi",n
+961,amusing,"vui,làm cho buồn cười",adj
+962,whether,có..không,conj
+963,positive,"xác thực,rõ ràng,tích cực",adj
+964,jointly,"cùng nhau,cùng chung",adv
+965,actor,diễn viên nam,n
+966,pill,viên thuốc,n
+967,unusual,"hiếm,khác thường",adj
+968,distinguish,"phân biệt,nhận ra",v
+969,index,"chỉ số,sự biểu thị",n
+970,authority,"uy quyền,quyền lực",n
+971,consult,"tra cứu,tham khảo,thăm dò",v
+972,appeal,"sự kêu gọi,lời kêu gọi",n
+973,appeal,"kêu gọi,cầu khẩn",v
+974,issue,"sự phát ra,sự phát sinh",n
+975,issue,"phát hành,đưa ra",v
+976,commercial,"buôn bán,thương mại",adj
+977,teaching,"sự dạy,công việc dạy học",n
+978,strongly,"khỏe,chắc chắn",adv
+979,pattern,"mẫu,khuôn mẫu",n
+980,nail,móng móng vuốt,n
+981,weather,thời tiết,n
+982,column,"cột,mục",n
+983,twist,"xoắn,cuộn",v
+984,twist,"sự xoắn,vòng xoắn",n
+985,confidently,tự tin,adv
+986,taste,"vị,vị giác",n
+987,taste,nếm,v
+988,striped,"có sọc,có vằn",adj
+989,please,"làm vui lòng,vừa lòng,mong... vui lòng",v
+990,hobby,sở thích riêng,n
+991,premises,biệt thự,n
+992,fashion,"mốt,thời trang",n
+993,working,"sự làm,sự làm việc",adj
+994,custom,"phong tục,tục lệ,thói quen",n
+995,fellow,"anh chàng,đồng chí",n
+996,involve,"bao gồm,bao hàm",v
+997,poisonous,"độc,có chất độc,gây chết",adj
+998,wing,"cánh,sự bay",n
+999,rightly,"đúng,phải",adv
+1000,organ,đàn óoc gan,n
+1001,period,"kỳ,thời kỳ",n
+1002,rescue,"giải thoát,cứu nguy",v
+1003,rescue,"sự giải thoát,sự cứu nguy",n
+1004,swim,bơi lội,v
+1005,belong,"thuộc về,của",v
+1006,themselves,"pro tự chúng,tự họ",n
+1007,motorcycle,xe mô tô,n
+1008,deeply,"sâu,sâu xa",adv
+1009,explosion,"sự nổ,sự phát triển ồ ạt",n
+1010,bathroom,"buồng tắm,nhà vệ sinh",n
+1011,unlikely,"không thể xảy ra,không chắc xảy ra",adj
+1012,passing,"sự đi qua,sự trôi qua",n
+1013,passing,"thoáng qua,ngắn ngủi",adj
+1014,round,"tròn,vòng quanh",adj
+1015,initiative,"bước đầu,sự khởi đầu",n
+1016,outstanding,"nổi bật,đáng chú ý",adj
+1017,life,"đời,sự sống",n
+1018,reserve,"dự trữ,để dành,đặt trước",v
+1019,reserve,"sự dự trữ,sự để dành",n
+1020,output,sự sản xuất,n
+1021,shopping,sự mua sắm,n
+1022,something,"pro một điều gì đó,một việc gì đó",n
+1023,nowhere,"không nơi nào,không ở đâu",adv
+1024,defeat,"đánh thắng,đánh bại",v
+1025,defeat,"sự thất bại,sự tiêu tan",n
+1026,wrongly,"một cách bất công,không đúng",adv
+1027,clothes,quần áo,n
+1028,arrive,"đến,tới nơi","+at, in"
+1029,magic,"ma thuật,ảo thuật",n
+1030,magic,"ma thuật,ảo thuật",adj
+1031,section,"mục,phần",n
+1032,honour,"danh dự,thanh danh",n
+1033,important,"quan trọng,hệ trọng",adj
+1034,analysis,sự phân tích,n
+1035,attract,hút,v
+1036,each other,"pro nhau,lẫn nhau",n
+1037,level,"trình độ,cấp",n
+1038,level,"bằng,ngang bằng",adj
+1039,dinner,"bữa trưa,chiều",n
+1040,strain,"sự căng thẳng,sự căng",n
+1041,emphasize,"nhấn mạnh,làm nổi bật",v
+1042,hardly,"khắc nghiệt,nghiêm khắc,tàn tệ",adv
+1043,careless,"sơ suất,cầu thả",adj
+1044,newspaper,báo,n
+1045,insurance,sự bảo hiểm,n
+1046,include,"bao gồm,tính cả",v
+1047,hand,"tay,bàn tay",n
+1048,hand,"trao tay,truyền cho",v
+1049,cream,kem,n
+1050,major,"lớn,nhiều hơn,trọng đại",adj
+1051,law,luật,n
+1052,bread,bánh mỳ,n
+1053,entertain,"giải trí,tiếp đón",v
+1054,oppose,"đối kháng,đối chọi",v
+1055,implication,"sự lôi kéo,sự liên can",n
+1056,watch,"đồng hồ,nhìn,theo dõi",v
+1057,watch,"sự canh gác,sự canh phòng",n
+1058,stiffly,"cứng,cứng rắn",adv
+1059,least,pro tối thiểu,n
+1060,least,ít nhất,adv
+1061,also,"cũng,cũng vậy",adv
+1062,fortune,"sự giàu có,sự thịnh vượng",n
+1063,approving,"tán thành,đồng ý",adj
+1064,damage,"mối hại,điều hại",n
+1065,damage,"làm hư hại,làm hỏng",v
+1066,edge,"lưỡi,cạnh sắc",n
+1067,unimportant,"không quan trọng,không trọng đại",adj
+1068,writer,người viết,n
+1069,prince,hoàng tử,n
+1070,hire,"thuê,cho thuê",v
+1071,hire,"sự thuê,sự cho thuê",n
+1072,anywhere,"bất cứ chỗ nào,bất cứ nơi đâu",adv
+1073,role,"vai,vai trò",n
+1074,respond,"hưởng ứng,phản ứng lại",v
+1075,curiously,"tò mò,hiếu kỳ",adv
+1076,dance,"sự nhảy múa,sự khiêu vũ",n
+1077,dance,"nhảy múa,khiêu vũ",v
+1078,ready,sẵn sàng,adj
+1079,into,"vào,vào trong",prep
+1080,instrument,dụng cụ âm nhạc khí,n
+1081,suddenly,"thình lình,đột ngột",adv
+1082,soil,đất trồng,n
+1083,humorous,"hài hước,hóm hỉnh",adj
+1084,memory,"bộ nhớ,trí nhớ",n
+1085,thorough,"cẩn thận,kỹ lưỡng",adj
+1086,achieve,"đạt được,dành được",v
+1087,stream,dòng suối,n
+1088,spider,con nhện,n
+1089,recognition,"sự công nhận,sự thừa nhận",n
+1090,relation,"mối quan hệ,sự liên quan",n
+1091,ceiling,trần nhà,n
+1092,arrange,"sắp xếp,sắp đặt",v
+1093,return,"trở lại,trở về",v
+1094,return,"sự trở lại,sự trở về",n
+1095,during,"trong lúc,trong thời gian",prep
+1096,unsuccessful,"không thành công,thất bại",adj
+1097,foreign,"nước ngoài,từ nước ngoài",adj
+1098,unique,độc nhất vô nhị,adj
+1099,medicine,"y học,y khoa",n
+1100,conduct,"điều khiển,chỉ đạo",v
+1101,conduct,"sự điều khiển,chỉ huy",n
+1102,aid,sự giúp đỡ,n
+1103,aid,"thêm vào,phụ vào",v
+1104,warn,"báo cho biết,cảnh báo",v
+1105,labour,lao động,n
+1106,there,"ở nơi đó,tại nơi đó",adv
+1107,about,"khoảng,về",adv
+1108,highlight,"làm nổi bật,nêu bật",v
+1109,highlight,"chỗ nổi bật nhất,đẹp",n
+1110,along,"dọc theo,theo",prep
+1111,along,"theo chiều dài,suốt theo",adv
+1112,powder,"bột,bụi",n
+1113,state,"nhà nước,quốc gia",n
+1114,state,"nhà nước,phát biểu",adj
+1115,fire,lửa,n
+1116,fire,đốt cháy,v
+1117,nonsense,"lời nói vô lý,vô nghĩa",n
+1118,sleep,ngủ,v
+1119,sleep,giấc ngủ,n
+1120,gradual,"dần dần,từng bước một",adj
+1121,separate,"khác nhau,riêng biệt",adj
+1122,separate,"làm rời,tách ra",v
+1123,until,"trước khi,cho đến khi",conj
+1124,content,"nội dung,sự hài lòng",n
+1125,iron,sắt,n
+1126,iron,bọc sắt,v
+1127,smoke,"khói,hơi thuốc",n
+1128,smoke,"hút thuốc,bốc khói",v
+1129,substitute,"người,vật thay thế",n
+1130,substitute,thay thế,v
+1131,downwards,"xuống,đi xuống",adv
+1132,timetable,"kế hoạch làm việc,thời gian biểu",n
+1133,stranger,người lạ,n
+1134,sentence,câu,n
+1135,country,"nước,quốc gia",n
+1136,progress,"sự tiến tới,sự tiến triển",n
+1137,progress,"tiến bộ,tiến triển",v
+1138,band,"băng,đai",n
+1139,truly,"đúng sự thật,đích thực",adv
+1140,advertising,"sự quảng cáo,nghề quảng cáo",n
+1141,prime minister,thủ tướng,n
+1142,cycling,sự đi xe đạp,n
+1143,correct,"đúng,chính xác",adj
+1144,correct,"sửa,sửa chữa",v
+1145,comfort,"sự an ủi,khuyên giải,lời động viên",n
+1146,controlled,"được điều khiển,được kiểm tra",adj
+1147,pleasant,"vui vẻ,dễ thương",adj
+1148,achievement,"thành tích,thành tựu",n
+1149,add,"cộng,thêm vào",v
+1150,give,"cho,biếu",v
+1151,enable,"làm cho có thể,có khả năng",v
+1152,loss,"sự mất,sự thua",n
+1153,electronic,điện tử,adj
+1154,crowded,đông đúc,adj
+1155,impression,"ấn tượng,cảm giác",n
+1156,slope,"dốc,đường dốc",n
+1157,slope,"nghiêng,dốc",v
+1158,lead,"lãnh đạo,dẫn dắt",v
+1159,lead,"sự lãnh đạo,sự hướng dẫn",n
+1160,though,"dù,dù cho",adv
+1161,sailor,thủy thủ,n
+1162,collect,"sưu tập,tập trung lại",v
+1163,umbrella,"ô,dù",n
+1164,motion,"sự chuyển động,sự di động",n
+1165,recent,"gần đây,mới đây",adj
+1166,possible,"có thể,có thể thực hiện",adj
+1167,square,"vuông,vuông vắn",adj
+1168,square,"dạng hình vuông,hình vuông",n
+1169,obtain,"đạt được,giành được",v
+1170,wire,dây,n
+1171,write,viết writing,v
+1172,tyre,"lốp,vỏ xe",n
+1173,believe,"tin,tin tưởng",v
+1174,accidentally,"tình cờ,ngẫu nhiên",adv
+1175,angle,góc,n
+1176,expense,chi phí,n
+1177,breath,"hơi thở,hơi",n
+1178,weakness,"tình trạng yếu đuối,yếu ớt",n
+1179,murder,"tội giết người,tội ám sát",n
+1180,murder,"giết người,ám sát",v
+1181,accident,"tai nạn,rủi ro",n
+1182,sideways,"ngang,từ một bên",adj
+1183,sideways,sang bên,adv
+1184,cousin,anh em họ,n
+1185,demonstrate,"chứng minh,giải thích",v
+1186,flow,sự chảy,n
+1187,flow,chảy,v
+1188,fear,"sự sợ hãi,e sợ",n
+1189,fear,"sợ,lo ngại",v
+1190,both,"cả hai",n
+1191,ought to,"phải,nên",v
+1192,honest,"lương thiện,trung thực",adj
+1193,ambulance,"xe cứu thương,xe cấp cứu",n
+1194,prefer,thích hơn,v
+1195,remarkable,"đáng chú ý,đáng để ý",adj
+1196,first,"thứ nhất,đầu tiên",adv
+1197,first,"người,vật đầu tiên",n
+1198,spoken,nói theo 1 cách nào đó,adj
+1199,rapid,"nhanh,nhanh chóng",adj
+1200,shy,"nhút nhát,e thẹn",adj
+1201,somewhat,"đến mức độ nào đó,hơi",adv
+1202,late,"trễ,muộn",adj
+1203,commitment,"sự phạm tội,sự tận tụy",n
+1204,education,"sự giáo dục,sự rèn luyện",n
+1205,guard,"cái chắn,người bảo vệ",n
+1206,guard,"bảo vệ,gác",v
+1207,washing,"sự tắm rửa,sự giặt",n
+1208,blade,"lưỡi (dao, kiếm)",n
+1212,western,"về phía tây,của phía tây",adj
+1213,resident,"người sinh sống,trú ngụ",n
+1214,resident,"có nhà ở,cư trú",adj
+1215,pile,"cọc,chồng,đống",n
+1216,pile,"đóng cọc,chất chồng",v
+1217,pants,"quần lót,đùi",n
+1218,expert,chuyên gia,n
+1219,expert,"chuyên môn,thành thạo",adj
+1220,excitement,"sự kích thích,sự kích động",n
+1221,base,"cơ sở,cơ bản",n
+1222,base,"đặt tên,đặt cơ sở trên cái gì",v
+1223,attitude,"thái độ,quan điểm",n
+1224,artist,nghệ sĩ,n
+1225,naturally,"vốn,tự nhiên",adv
+1226,growth,"sự lớn lên,sự phát triển",n
+1227,review,"sự xem lại,sự xét lại",n
+1228,review,"làm lại,xem xét lại",v
+1229,sufficiently,"đủ,thích đáng",adv
+1230,element,"yếu tố,nguyên tố",n
+1231,full,"đầy,đầy đủ",adj
+1232,walk,"đi,đi bộ",v
+1233,walk,"sự đi bộ,sự đi dạo",n
+1234,uncomfortable,"bất tiện,không tiện lợi",adj
+1235,exist,"tồn tại,sống",v
+1236,attend,"dự,có mặt",v
+1237,craft,"nghề,nghề thủ công",n
+1238,ashamed,"ngượng,xấu hổ",adj
+1239,rob,"cướp,lấy trộm",v
+1240,relatively,"có liên quan,có quan hệ",adv
+1241,counter,"quầy hàng,quầy thu tiền",n
+1242,drawer,"người vẽ,người kéo",n
+1243,introduction,"sự giới thiệu,lời giới thiệu",n
+1244,session,"buổi họp,phiên họp,buổi",n
+1245,uncontrolled,"không bị điều khiển,không bị kiểm tra",adj
+1246,proceed,"tiến lên,theo đuổi",v
+1247,flight,"sự bỏ chạy,rút chạy",n
+1248,population,"dân cư,dân số",n
+1249,careful,"cẩn thận,cẩn trọng",adj
+1250,standard,"tiêu chuẩn,chuẩn",n
+1251,standard,"làm tiêu chuẩn,phù hợp với tiêu chuẩn",adj
+1252,meanwhile,"trong lúc đó,trong lúc ấy",adv
+1253,facility,"điều kiện dễ dàng,sự dễ dàng",n
+1254,quit,"thoát,thoát ra",v
+1255,uncomfortable,"bất tiện,khó chịu",adj
+1256,this,"pro cái này,điều này",n
+1257,stand,"đứng,sự đứng",v
+1258,sharp,"sắc,nhọn",adj
+1259,trust,"niềm tin,sự phó thác",n
+1260,trust,"tin,tin cậy",v
+1261,restriction,"sự hạn chế,sự giới hạn",n
+1262,receipt,công thức,n
+1263,mark,"dấu,nhãn",n
+1264,mark,"đánh dấu,ghi dấu",v
+1265,specialist,"chuyên gia,chuyên viên",n
+1266,supporter,vật chống đỡ,n
+1267,drive,"lái,điều khiển",v
+1268,drive,cuộc đua xe,n
+1269,unknown,"không biết,không được nhận ra",adj
+1270,connect,"kết nối,nối",v
+1271,irritating,"làm phát cáu,chọc tức",adj
+1272,terribly,"tồi tệ,không chịu nổi",adv
+1273,story,"chuyện,câu chuyện",n
+1274,campaign,"chiến dịch,cuộc vận động",n
+1275,for,"cho,dành cho...",prep
+1276,management,"sự quản lý,sự trông nom",n
+1277,safety,"sự an toàn,sự chắc chăn",n
+1278,tunnel,"đường hầm,hang",n
+1279,fall,"rơi,ngã,sự rơi",v
+1280,practically,về mặt thực hành,adv
+1281,aircraft,"máy bay,tàu bay",n
+1282,uncertain,"thiếu chính xác,không chắc chắn",adj
+1283,interruption,"sự gián đoạn,sự ngắt lời",n
+1284,alarm,"báo động,báo nguy",n
+1285,uniform,đồng phục,n
+1286,uniform,"đều,giống nhau",adj
+1287,pay,"trả,thanh toán",v
+1288,pay,tiền lương,n
+1289,govern,"cai trị,thống trị",v
+1290,manufacturer,"người chế tạo,người sản xuất",n
+1292,marriage,"sự cưới xin,sự kết hôn",n
+1293,visible,"hữu hình,thấy được",adj
+1294,election,"sự bầu cử,cuộc tuyển cử",n
+1295,frequently,thường xuyên,adv
+1296,cure,"chữa trị,điều trị",v
+1297,cure,"cách chữa bệnh,cách điều trị",n
+1298,contain,"bao hàm,chứa đựng",v
+1299,consider,"cân nhắc,xem xét",v
+1300,driver,người lái xe,n
+1301,profession,"nghề,nghề nghiệp",n
+1302,bend,"chỗ rẽ,chỗ uốn",v
+1303,bend,khuỷu tay,n
+1304,need,"cần,đòi hỏi",v
+1305,need,sự cần,n
+1306,businessman,thương nhân,n
+1307,event,"sự việc,sự kiện",n
+1308,trouble,"điều lo lắng,điều muộn phiền",n
+1309,limit,"giới hạn,ranh giới",n
+1310,limit,"giới hạn,hạn chế",v
+1311,afterwards,"sau này,về sau,rồi thì",adv
+1312,obvious,"rõ ràng,rành mạch",adj
+1313,doubt,"sự nghi ngờ,sự ngờ vực",n
+1314,doubt,"nghi ngờ,ngờ vực",v
+1315,observe,"quan sát,theo dõi",v
+1316,closely,"gần gũi,thân mật,chặt chẽ",adv
+1317,bury,"chôn cất,mai táng",v
+1318,task,"nhiệm vụ,nghĩa vụ,bài tập",n
+1319,disagree,"bất đồng,không đồng ý,khác",v
+1320,plus,cộng với,adj
+1321,plus,dấu cộng,conj
+1322,plus,"cộng,thêm vào",v
+1323,orange,quả cam,n
+1324,orange,có màu da cam,adj
+1325,sound,âm thanh,n
+1326,sound,nghe,v
+1327,test,"bài kiểm tra,sự thử nghiệm",n
+1328,test,kiểm tra,v
+1329,ultimate,"cuối cùng,sau cùng",adj
+1330,heel,gót chân,n
+1331,produce,"sản xuất,chế tạo",v
+1332,proposal,"sự đề nghị,đề xuất",n
+1333,select,"chọn lựa,chọn lọc",v
+1334,rarely,"hiếm khi,ít khi",adv
+1335,brilliant,"tỏa sáng,rực rỡ",adj
+1336,tackle,"giải quyết,khắc phục",v
+1337,tackle,"đồ dùng,dụng cụ",n
+1338,talk,"nói chuyện,trò chuyện",v
+1339,talk,"cuộc trò chuyện,cuộc thảo luận",n
+1340,program,chương trình,n
+1341,program,lên chương trình,v
+1342,version,bản dịch sang một ngôn ngữ khác,n
+1343,begin,"bắt đầu,khởi đầu",v
+1344,pure,"nguyên chất,tinh khiết",adj
+1345,excited,"bị kích thích,bị kích động",adj
+1347,reduction,"sự giảm giá,sự hạ giá",n
+1348,evil,"xấu,ác",adj
+1349,evil,"điều xấu,điều ác",n
+1350,insulting,"lăng mạ,xỉ nhục",adj
+1351,witness,"sự làm chứng,bằng chứng",n
+1352,witness,"chứng kiến,làm chứng",v
+1353,treatment,"sự đối xử,sự đối đãi",n
+1354,midnight,"nửa đêm,12h đêm",n
+1355,belt,"dây lưng,thắt lưng",n
+1356,rank,"hàng,dãy",n
+1357,rank,"sắp xếp thành hàng,dãy",v
+1358,beside,"bên cạnh,so với",prep
+1359,top,"chóp,đỉnh",n
+1360,top,"đứng đầu,trên hết",adj
+1361,unfairly,"gian lận,không công bằng",adv
+1362,detailed,"cặn kẽ,tỉ mỉ",adj
+1363,fish,"cá,món cá",n
+1364,fish,"câu cá,bắt cá",v
+1365,adult,"người lớn,người trưởng thành",n
+1366,adult,trưởng thành,adj
+1367,license,"cấp chứng chỉ,cấp bằng",v
+1368,mainly,"chính,chủ yếu",adv
+1369,bitterly,"đắng,đắng cay",adv
+1370,all right,"tốt,ổn",adj
+1371,all right,được,adv
+1372,mess,"tình trạng bừa bộn,tình trạng lộn xộn",n
+1373,than,hơn,conj
+1374,hatred,"lòng căm thì,sự căm ghét",n
+1375,dump,đổ rác,v
+1376,dump,"đống rác,nơi đổ rác",n
+1377,television,vô tuyến truyền hình,n
+1378,percent,phần trăm,n
+1379,proper,"đúng,thích đáng",adj
+1380,investigate,"điều tra,nghiên cứu",v
+1381,desire,ước muốn,n
+1382,desire,"thèm muốn,ao ước",v
+1383,attention,sự chú ý,n
+1384,garden,vườn,n
+1385,register,"đăng ký,ghi vào sổ",v
+1386,register,"sổ,sổ sách",n
+1387,oddly,"kỳ quặc,kỳ cục",adv
+1388,paint,"sơn,vôi màu",n
+1389,paint,"sơn,quét sơn",v
+1390,unkind,"không tốt,độc ác",adj
+1391,lid,"nắp,vung",n
+1393,express,"diễn tả,biểu lộ",v
+1394,express,"nhanh,tốc hành",adj
+1395,upset,"làm đổ,đánh đổ",v
+1396,slight,"mỏng manh,thon",adj
+1397,scared,"bị hoảng sợ,bị sợ hãi",adj
+1398,whole,"bình an vô sự,không suy suyển",adj
+1399,whole,"toàn bộ,tất cả",n
+1400,restaurant,"nhà hàng ăn,hiệu ăn",n
+1401,wonder,"ngạc nhiên,lấy làm lạ",v
+1402,discussion,"sự thảo luận,sự tranh luận",n
+1403,disaster,"tai họa,thảm họa",n
+1404,structure,"kết cấu,cấu trúc",n
+1405,preparation,"sự sửa soạn,sự chuẩn bị",n
+1406,confront,"đối mặt,đối diện",v
+1407,helpful,có ích,adj
+1408,threatening,"sự đe dọa,sự hăm dọa",adj
+1409,violently,"mãnh liệt,dữ dội",adv
+1410,shock,"sự đụng chạm,va chạm,sự kích động",v
+1411,compare,"so sánh,đối chiếu",v
+1412,abandoned,"bị bỏ rơi,bị ruồng bỏ",adj
+1413,discover,"khám phá,phát hiện ra",v
+1414,division,"sự chia,sự phân chia",n
+1415,maintain,"giữ gìn,duy trì",v
+1416,connection,"sự kết nối,sự giao kết",n
+1417,visit,"đi thăm hỏi,đến chơi",v
+1418,visit,sự đi thăm,n
+1419,wander,đi lang thang,v
+1420,wander,sự đi lang thang,n
+1422,permission,"sự cho phép,giấy phép",n
+1423,carpet,"tấm thảm,thảm",n
+1424,position,"vị trí,chỗ",n
+1425,transform,"thay đổi,biến đổi",v
+1426,forgive,"tha,tha thứ",v
+1427,owner,"người chủ,chủ nhân",n
+1428,cigarette,điếu thuốc lá,n
+1429,bite,"cắn,ngoạm",v
+1430,bite,"sự cắn,sự ngoạm",n
+1431,calm,"yên lặng,làm dịu đi",adj
+1432,calm,"sự yên lặng,sự êm ả",v
+1433,fighting,"sự chiến đấu,sự đấu tranh",n
+1434,relax,"giải trí,nghỉ ngơi",v
+1435,anxious,"lo âu,lo lắng",adj
+1436,shiny,"sáng chói,bóng",adj
+1437,unemployed,thất nghiệp,adj
+1438,conscious,"tỉnh táo,có ý thức",adj
+1439,sweat,mồ hôi,n
+1440,sweat,đổ mồ hô,v
+1441,exactly,"chính xác,đúng đắn",adv
+1442,asleep,"ngủ,đang ngủ",adj
+1443,slice,"miếng,lát mỏng",n
+1444,slice,"cắt ra thành miếng mỏng,lát mỏng",v
+1445,meal,bữa ăn,n
+1446,tightly,"chặc chẽ,sít sao",adv
+1447,civil,công dân,adj
+1448,crowd,đám đông,n
+1449,senate,"thượng nghi viện,ban giám hiệu",n
+1450,romantic,lãng mạn,adj
+1451,sad,"buồn,buồn bã",adj
+1452,annoyed,"bị khó chịu,bực mình",adj
+1453,justified,"hợp lý,được chứng minh là đúng",adj
+1454,institute,"viện,học viện",n
+1455,currently,"hiện thời,hiện nay",adv
+1456,nurse,y tá,n
+1457,exclude,"ngăn chạn,loại trừ",v
+1458,joint,chung,adj
+1459,joint,"chỗ nối,đầu nối",n
+1460,sample,"mẫu,hàng mẫu",n
+1461,translate,"dịch,biên dịch",v
+1462,southern,thuộc phương Nam,adj
+1463,attraction,"sự hút,sức hút",n
+1464,title,"đầu đề,tiêu đề",n
+1465,fundamental,"cơ bản,cơ sở",adj
+1466,pub,"quán rượu,tiệm rượu",n
+1467,get,"được,có được",v
+1468,shine,"chiếu sáng,tỏa sáng",v
+1469,open,"mở,ngỏ",adj
+1470,open,"mở,bắt đầu",v
+1471,politely,"lễ phép,lịch sự",adv
+1472,tidy,"sạch sẽ,ngăn nắp",adj
+1473,roll,"cuốn,cuộn",n
+1474,roll,"lăn,cuốn,quấn",v
+1475,each,pro mỗi,n
+1476,refuse,"từ chối,khước từ",v
+1477,computer,máy tính,n
+1478,coast,sự lao dốc,n
+1479,rude,"bất lịch sự,thô lỗ",adj
+1480,fast,nhanh,adj
+1481,commonly,"thông thường,bình thường",adv
+1482,underwear,quần lót,n
+1483,stir,"khuấy,đảo",v
+1484,aloud,"lớn tiếng,to tiếng",adv
+1485,tour,"cuộc đi du lịch,cuộc đi dạo",n
+1486,tour,đi du lịch,v
+1487,unnecessary,"không cần thiết,không mong muốn",adj
+1488,swearing,"lời thề,lời nguyền rủa",n
+1489,zone,"khu vực,miền",n
+1490,objective,"mục tiêu,mục đích",n
+1491,objective,"mục tiêu,khách quan",adj
+1492,circle,"đường tròn,hình tròn",n
+1493,gently,"nhẹ nhàng,êm ái",adv
+1495,legal,hợp pháp,adj
+1496,sell,bán,v
+1497,survive,"sống lâu hơn,tiếp tục sống",v
+1498,conference,"hội nghị,sự bàn bạc",n
+1499,meeting,"cuộc mít tinh,cuộc biểu tình",n
+1500,ideal,"quan niệm,tư tưởng",adj
+1501,ideal,lý tưởng,n
+1502,comfortably,"dễ chịu,thoải mái,tiện nghi",adv
+1503,movement,"sự chuyển động,sự hoạt động",n
+1504,purple,"tía,có màu tía",adj
+1505,purple,màu tía,n
+1506,violent,"mãnh liệt,mạnh mẽ",adj
+1507,audience,"thính,khan giả",n
+1508,unhappy,"buồn rầu,khốn khổ",adj
+1509,painful,"đau đớn,đau khổ",adj
+1510,departure,"sự rời khỏi,sự đi",n
+1511,primary,"nguyên thủy,đầu tiên",adj
+1512,behind,"sau,ở đằng sau",prep
+1513,absolutely,"tuyệt đối,hoàn toàn",adv
+1514,unfairly,"gian lận,không công bằng",adv
+1515,identity,"cá tính,nét nhận dạng",n
+1516,while,"trong lúc,trong khi",conj
+1517,while,"lúc,chốc",n
+1518,wool,len,n
+1519,worship,"sự tôn thờ,sự tôn sùng",n
+1520,worship,"thờ,thờ phụng",v
+1521,museum,bảo tàng,n
+1522,pressure,"sức ép,áp lực",n
+1523,tongue,lưỡi,n
+1524,condition,"điều kiện,tình cảnh",n
+1525,guilty,"có tội,phạm tội",adj
+1526,rudely,"bất lịch sự,thô lỗ",adv
+1527,accept,"chấp nhận,chấp thuận",v
+1528,same,"pro đều đều,đơn điệu",adj
+1529,same,"cũng như thế,vẫn cái đó",n
+1530,originally,"một cách sáng tạo,mới mẻ",adv
+1531,convert,"đổi,biến đổi",v
+1532,musical,"nhạc,âm nhạc",adj
+1534,author,tác giả,n
+1535,entertaining,giải trí,adj
+1536,cheek,má,n
+1537,impatient,"thiếu kiên nhẫn,nóng vội",adj
+1538,broken,"bị gãy,bị vỡ",adj
+1539,keen,"sắc,bén",adj
+1540,through,"qua,xuyên qua",adv
+1541,establish,"lập,thành lập",v
+1542,internal,"ở trong,bên trong",adj
+1543,softly,một cách mềm dẻo,adv
+1544,study,"sự học tập,sự nghiên cứu",n
+1545,study,"học tập,nghiên cứu",v
+1546,sight,cảnh đẹp,n
+1547,visitor,"khách,du khách",n
+1548,cultural,văn hóa,adj
+1549,truth,sự thật,n
+1550,brief,"ngắn,gọn",adj
+1551,offer,"biếu,tặng",v
+1552,offer,sự trả giá,n
+1553,awfully,"tàn khốc,khủng khiếp",adv
+1554,ship,"tàu,tàu thủy",n
+1555,range,"dãy,hàng",n
+1556,deserve,"đáng,xứng đáng",v
+1557,joke,"trò cười,lời nói đùa",n
+1558,joke,"nói đùa,giễu cợt",v
+1559,develop,"phát triển,mở rộng",v
+1560,meet,"gặp,gặp gỡ",v
+1561,programme,chương trình,n
+1562,experienced,"có kinh nghiệm,từng trải",adj
+1563,ice,"băng,nước đá",n
+1564,cease,"dừng,ngừng,ngớt,thôi",v
+1565,degree,"mức độ,trình độ",n
+1566,shake,"rung,lắc",v
+1567,shake,"sự rung,sự lắc",n
+1568,opposing,"tính đối kháng,đối chọi",adj
+1569,later,chậm hơn,adv
+1570,loose,"lỏng,không chặt",adj
+1571,somehow,"không biết làm sao,bằng cách này hay cách khác",adv
+1572,manage,"quản lý,trông nom",v
+1573,practise,"thực hành,tập luyện",v
+1574,website,không gian liên tới với Internet,n
+1575,continuous,"liên tục,liên tiếp",adj
+1576,diagram,biểu đồ,n
+1577,bedroom,phòng ngủ,n
+1578,hole,"lỗ,lỗ trống",n
+1579,boring,buồn chán,adj
+1580,innocent,"vô tội,trong trắng",adj
+1581,find,"tìm,tìm thấy",v
+1582,actively,"tích cực,hăng hái,nhanh nhẹn",adv
+1583,beat,"tiếng đập,sự đập",n
+1584,beat,"đánh đập,đấm",v
+1585,care,"sự chăm sóc,chăm nom",n
+1586,care,chăm sóc,v
+1587,pretend,"giả vờ,giả bộ",v
+1588,enthusiastic,"hăng hái,say mê",adj
+1589,experiment,"cuộc thí nghiệm,thí nghiệm",n
+1590,retired,"ẩn dật,hẻo lánh,đã về hưu",adj
+1591,straight,"thẳng,không cong",adv
+1592,swollen,"sưng phồng,phình căng",adj
+1593,repair,"sửa chữa,chỉnh tu",v
+1594,repair,"sự sửa chữa,sự chỉnh tu",n
+1595,funeral,"lễ tang,đám tang",n
+1596,attach,"gắn,dán,trói",v
+1597,rate,"tỷ lệ,tốc độ",n
+1598,retain,"giữ lại,nhớ được",v
+1599,photography,"thuật chụp ảnh,nghề nhiếp ảnh",n
+1600,excellent,"xuất sắc,xuất chúng",adj
+1601,technique,"kỹ sảo,kỹ thuật",n
+1602,glad,"vui lòng,sung sướng",adj
+1603,grab,"túm lấy,vồ",v
+1604,cotton,"bông,chỉ",n
+1605,sharply,"sắc,nhọn",adv
+1606,shape,"hình,hình dạng",n
+1608,tomorrow,vào ngày mai,adv
+1609,tomorrow,ngày mai,n
+1610,bird,chim,n
+1611,upper,cao hơn,adj
+1612,hide,"trốn,ẩn nấp",v
+1613,service,"sự phục vụ,sự hầu hạ",n
+1614,slightly,"mảnh khảnh,mỏng manh",adv
+1615,employer,"chủ,người sử dụng lao động",n
+1616,lecture,"bài diễn thuyết,bài thuyết trình",n
+1617,line,"dây,đường",n
+1618,blood,"máu,huyết",n
+1619,similar,"giống như,tương tự như",adj
+1620,punch,"đấm,thụi",v
+1621,punch,"quả đấm,cú thụi",n
+1622,regular,"thường xuyên,đều đặn",adj
+1623,energy,"năng lượng,nghị lực",n
+1624,vital,"sự sống,cần cho sự sống",adj
+1625,table,cái bàn,n
+1626,disappointment,"sự chán ngán,sự thất vọng",n
+1627,unacceptable,"không thể chấp nhận,không tán thành",adj
+1628,concrete,"adj.,bằng bê tông",n
+1629,pin,đinh ghim,n
+1630,pin,"ghim,kẹp",v
+1631,defence,"cái để bảo vệ,vật để chống đỡ",n
+1632,steadily,"vững chắc,vững vàng",adv
+1633,sleeve,"tay áo,ống tay",n
+1634,beak,mỏ chim,n
+1635,wet,"ướt,ẩm ướt",adj
+1636,quote,trích dẫn,v
+1637,bad,"xấu,tồi",adj
+1638,obviously,"một cách rõ ràng,có thể thấy được",adv
+1639,ideally,"lý tưởng,đúng như lý tưởng",adv
+1640,dressed,cách ăn mặc,adj
+1641,beautifully,"tốt đẹp,đáng hài lòng",adv
+1642,initially,"vào lúc ban đầu,ban đ",adv
+1643,qualified,"đủ tư cách,điều kiện",adj
+1644,battery,"pin,ắc quy",n
+1645,finger,ngón tay,n
+1646,tap,"mở vòi,đóng vồi",v
+1647,tap,"vòi,khóa",n
+1648,emerge,"nổi lên,hiện ra",v
+1649,course,"tiến trình,quá trình diễn tiến",n
+1650,sore,"đau,nhức",adj
+1651,packet,gói nhỏ,n
+1652,restrict,"hạn chế,giới hạn",v
+1653,note,"lời ghi,lời ghi chép",n
+1654,note,"ghi chú,ghi chép",v
+1655,variety,"sự đa dạng,trạng thái khác nhau",n
+1656,sting,"châm,chích",v
+1657,sting,"ngòi,vòi",n
+1658,sting,"sự châm,chích",n2
+1659,research,sự nghiên cứu,n
+1660,encouragement,"niềm cổ vũ,động viên,khuyến khích",n
+1661,via,"qua,theo đường",prep
+1662,profit,"thuận lợi,lợi ích",n
+1663,toilet,nhà vệ sinh,n
+1664,toilet,sự trang điểm,v
+1665,outside,"bề ngoài,bên ngoài",adj
+1666,outside,ở ngoài,adv
+1667,family,"gia đình,thuộc gia đình",n
+1668,pull,"lôi,kéo",v
+1669,pull,"sự lôi kéo,sự giật",n
+1670,over,".prep. bên trên,vượt qua",adv
+1671,boss,"ông chủ,thủ trưởng",n
+1672,additional,"thêm vào,tăng thêm",adj
+1673,choice,sự lựa chọn,n
+1674,expected,"được chờ đợi,được hy vọng",adj
+1675,reader,"người đọc,độc giả",n
+1676,moon,mặt trăng,n
+1677,discipline,kỷ luật,n
+1678,concert,buổi hòa nhạc,n
+1679,wrist,cổ tay,n
+1680,critical,"phê bình,phê phán",adj
+1681,almost,"hầu như,gần như",adv
+1682,buyer,người mua,n
+1683,secure,"chắc chắn,đảm bảo",adj
+1684,secure,"bảo đảm,giữ an ninh",v
+1685,combination,"sự kết hợp,sự phối hợp",n
+1686,import,"sự nhập,sự nhập khẩu",n
+1687,import,"nhập,nhập khẩu",v
+1688,curl,"quăn,xoắn,uốn quăn",v
+1689,curl,sự uốn quăn,n
+1690,strict,"nghiêm khắc,chặt chẽ",adj
+1691,waste,"lãng phí,uổng phí",v
+1692,waste,"vùng hoang vu,sa mạc",n
+1693,waste,bỏ hoang,adj
+1694,product,sản phẩm,n
+1695,mouse,chuột,n
+1696,avoid,"tránh,tránh xa",v
+1697,office,"cơ quan,văn phòng",n
+1698,chase,săn bắt,v
+1699,chase,sự săn bắt,n
+1700,quite,"hoàn toàn,hầu hết",adv
+1701,unconscious,"bất tỉnh,ngất đi",adj
+1702,pocket,"túi,túi tiền",n
+1703,drum,"cái trống,tiếng trống",n
+1704,strangely,"lạ,xa lạ",adv
+1705,chat,"nói chuyện,tán gẫu",v
+1706,chat,"chuyện phiếm,chuyện gẫu",n
+1707,unlike,"khác,không giống",prep
+1708,urban,"thành phố,khu vực",adj
+1709,shame,"sự xấu hổ,thẹn thùng",n
+1710,physically,"về thân thể,theo luật tự nhiên",adv
+1711,market,"chợ,thị trường",n
+1712,central,"trung tâm,ở giữa",adj
+1713,enjoy,"thưởng thức,thích thú cái gì,được hưởng",v
+1714,navy,hải quân,n
+1715,garage,nhà để ô tô,n
+1716,apply,"gắn vào,ghép vào",v
+1717,knot,cái nơ,n
+1718,prevent,"ngăn cản,ngăn chặn",v
+1719,loosely,lỏng lẻo,adv
+1720,set,"bộ,bọn,đám",n
+1721,set,"đặt để,bố trí",v
+1722,formerly,"trước đây,thuở xưa",adv
+1723,literature,"/ˈlɪtərətʃər/ văn chương,văn học",n
+1724,boot,giày ống,n
+1725,electric,"điện,có điện",adj
+1726,purely,"hoàn toàn,chỉ là",adv
+1727,term,"giới hạn,kỳ hạn,khóa",n
+1728,toy,"đồ chơi,đồ trang trí",n
+1729,toy,thể loại đồ chơi,adj
+1730,unexpected,"bất ngờ,đột ngột",adj
+1731,feather,lông chim,n
+1732,irritate,"làm phát cáu,chọc tức",v
+1733,anniversary,"ngày,lễ kỉ niệm",n
+1734,willingly,"sẵn lòng,tự nguyện",adv
+1735,coal,than đá,n
+1736,skirt,"váy,đầm",n
+1737,opportunity,"cơ hội,thời cơ",n
+1738,hit,"đánh,đấm",v
+1739,hit,"đòn,cú đấm",n
+1740,nervously,"bồn chồn,lo lắng",adv
+1741,bring,"mang,cầm",v
+1742,surely,chắc chắn,adv
+1743,phrase,câu,n
+1744,shelf,"kệ,ngăn",n
+1745,tip,"đầu,mút,đỉnh",n
+1746,tip,"bịt đầu,lắp đầu vào",v
+1747,step,bước,n
+1748,step,"bước,bước đi",v
+1749,deny,"từ chối,phản đối",v
+1750,belief,"lòng tin,đức tin",n
+1751,load,"gánh nặng,vật nặng",n
+1752,load,"chất,chở",v
+1753,potato,khoai tây,n
+1754,familiar,"thân thiết,quen thuộc",adj
+1755,remember,"nhớ,nhớ lại",v
+1756,opening,"khe hở,lỗ",n
+1757,occasion,"dịp,cơ hội",n
+1758,extension,"sự giơ,duỗi",n
+1759,industrial,"công nghiệp,kỹ nghệ",adj
+1760,rival,"đối thủ,địch thủ",n
+1761,rival,"đối địch,cạnh tranh",adj
+1762,allied,"liên minh,đồng minh",adj
+1763,power,"khả năng,tài năng",n
+1764,old fashioned,lỗi thời,adj
+1765,devote,"hiến dâng,dành hết cho",v
+1766,entirely,"toàn vẹn,trọn vẹn",adv
+1767,airport,"sân bay,phi trường",n
+1768,contrasting,tương phản,adj
+1769,sink,"chìm,lún",v
+1770,automatic,tự động,adj
+1771,relationship,"mối quan hệ,mối liên lạc",n
+1772,feel,cảm thấy,v
+1773,apartment,"căn phòng,căn buồng",n
+1774,extensive,"rộng rãi,bao quát",adj
+1775,fridge,tủ lạnh,n
+1776,recognize,"nhận ra,nhận diện",v
+1777,dress,"váy,quần áo,mặc",n
+1778,clean,"sạch,sạch sẽ",adj
+1779,worried,"bồn chồn,lo nghĩ",adj
+1780,fully,"đầy đủ,hoàn toàn",adv
+1781,stomach,dạ dày,n
+1782,recall,"gọi về,triệu hồi",v
+1783,convenient,"tiện lợi,thuận lợi",adj
+1784,again,"lại,nữa",adv
+1785,week,"tuần,tuần lễ",n
+1786,insert,"chèn vào,lồng vào",v
+1787,self,bản thân mình,n
+1788,drunk,say rượu,adj
+1789,publicity,"sự công khai,sự quảng cáo",n
+1790,upstairs,"ở tên gác,cư ngụ ở tầng gác",adv
+1791,upstairs,tầng trên,adj
+1792,greatly,"rất,lắm",adv
+1793,wear,"mặc,mang",v
+1794,proudly,"một cách tự hào,một cách hãnh diện",adv
+1795,plan,"bản đồ,kế hoạch",n
+1796,plan,"vẽ bản đồ,lập kế hoạch",v
+1797,rubbish,"vật vô giá trị,bỏ đi",n
+1798,unhappiness,"nỗi buồn,sự bất hạnh",n
+1799,busy,"bận,bận rộn",adj
+1800,attack,"sự tấn công,sự công kích",n
+1801,attack,"tấn công,công kích",v
+1802,plant,"thực vật,sự mọc lên",n
+1803,plant,"trồng,gieo",v
+1804,fat,"béo,béo bở",adj
+1805,fat,"mỡ,chất béo",n
+1806,doctor,"bác sĩ y khoa,tiến sĩ",n
+1807,distribute,"phân bổ,phân phối,sắp xếp",v
+1808,genuinely,"thành thật,chân thật",adv
+1809,flat,"bằng phẳng,bẹt",adj
+1810,flat,"dãy phòng,căn phòng",n
+1811,hall,"đại sảnh,tòa",n
+1812,measurement,"sự đo lường,phép đo",n
+1813,society,xã hội,n
+1814,secondary,"trung học,thứ yếu",adj
+1815,altogether,"hoàn toàn,hầu như",adv
+1816,distribution,"sự phân bổ,sự phân phối,phân phát",n
+1817,vacation,"kỳ nghỉ hè,kỳ nghỉ lễ",n
+1818,enormous,"to lớn,khổng lồ",adj
+1819,primarily,"trước hết,đầu tiên",adv
+1820,expectation,"sự mong chờ,sự chờ đợi",n
+1821,birth,"sự ra đời,sự sinh đẻ",n
+1822,potentially,"tiềm năng,tiềm ẩn",adv
+1823,fine,"tốt,giỏi",adj
+1824,elegant,"thanh lịch,tao nhã",adj
+1825,tin,thiếc,n
+1826,congress,"đại hội,hội nghị",n
+1827,sexually,"giới tính,các vấn đề sinh lý",adv
+1828,employment,sự thuê mướn,n
+1829,cause,"nguyên nhân,nguyên do",n
+1830,cause,"gây ra,gây nên",v
+1831,dying,sự chết,adj
+1832,package,"gói đồ,bưu kiện",n
+1833,package,"đóng gói,đóng kiện",v
+1834,bill,"hóa đơn,giấy bạc",n
+1835,newly,mới,adv
+1836,exaggerate,"cường điệu,phóng đại",v
+1837,wonderful,"phi thường,khác thường,kỳ diệu",adj
+1838,project,"đề án,dự án",n
+1839,project,"dự kiến,kế hoạch",v
+1840,dismiss,"giải tán,gạt bỏ",v
+1842,correctly,"đúng,chính xác",adv
+1843,technical,"kỹ thuật,chuyên môn",adj
+1844,stove,"bếp lò,lò sưởi",n
+1845,understand,"hiểu,nhận thức",v
+1846,nice,"đẹp,thú vị",adj
+1847,forecast,"sự dự đoán,dự báo",n
+1848,forecast,"dự đoán,dự báo",v
+1849,change,"thay đổi,sự thay đổi",v
+1850,people,"dân tộc,dòng giống",n
+1851,photograph,"ảnh,bức ảnh",n
+1852,photograph,chụp ảnh,v
+1853,furniture,đồ đạc,n
+1854,grain,"thóc lúa,hạt",n
+1855,fresh,"tươi,tươi tắn",adj
+1856,preserve,"bảo quản,giữ gìn",v
+1857,briefly,"ngắn,gọn,vắn tắt",adv
+1858,island,/´ailənd/ hòn đảo,n
+1859,permanent,"lâu dài,vĩnh cửu",adj
+1860,certificate,"giấy chứng nhận,bằng",n
+1861,fund,"kho,quỹ",n
+1862,fund,"tài trợ,tiền bạc",v
+1863,van,"tiền đội,quân tiên phong",n
+1864,inform,"báo cho biết,cung cấp tin tức",v
+1865,list,danh sách,n
+1866,list,ghi vào danh sách,v
+1867,door,"cửa,cửa ra vào",n
+1868,factory,"nhà máy,xí nghiệp",n
+1869,lock,"mớ tóc,mớ bông",v
+1870,lock,khóa,n
+1871,firmly,"vững chắc,kiên quyết",adv
+1872,destruction,"sự phá hoại,sự phá hủy",n
+1873,cross,"cây Thánh Giá,nỗi thống khổ",n
+1874,cross,sự băng qua,v
+1875,effort,"sự cố gắng,sự nỗ lực",n
+1876,passport,hộ chiếu,n
+1877,divorce,sự ly dị,n
+1878,chief,"trọng yếu,chính yếu",adj
+1879,chief,"thủ lĩnh,lãnh tụ,người đứng đầu",n
+1880,confuse,"làm lộn xộn,xáo trộn",v
+1881,worst,"xấu nhất,tồi nhất,tệ nhất",adj
+1882,suspect,"nghi ngờ,hoài nghi",v
+1883,suspect,"người khả nghi,người bị tình nghi",n
+1884,topic,"đề tài,chủ đề",n
+1885,studio,"xưởng phim,trường quay",n
+1886,engineering,"nghề kỹ sư,công việc của kỹ sư",n
+1887,roughly,"gồ ghề,lởm chởm",adv
+1888,especially,"đặc biệt là,nhất là",adv
+1889,little,"pro nhỏ,bé",n
+1890,little,không nhiều,adv
+1891,swell,"phồng lên,sưng lên",v
+1892,smart,"mạnh,ác liệt,khéo léo",adj
+1893,coughing,ho,n
+1894,chamber,"buồng,phòng",n
+1895,palace,"cung điện,lâu đài",n
+1896,brick,gạch,n
+1897,cast,"quăng,ném,thả",v
+1898,cast,"sự quăng,sự ném",n
+1899,remark,"sự nhận xét,phê bình,sự để ý",n
+1900,remark,"nhận xét,phê bình",v
+1901,attractive,"hút,thu hút,có duyên",adj
+1902,card,"thẻ,thiếp",n
+1903,without,"không,không có",prep
+1904,considerably,"đáng kể,lớn lao",adv
+1905,strategy,chiến lược,n
+1906,foot,"chân,bàn chân",n
+1907,repeatedly,lặp đi lặp lại nhiều lần,adv
+1908,rhythm,nhịp điệu,n
+1909,fork,cái nĩa,n
+1910,box,"hộp,thùng",n
+1911,get on,"leo,trèo lên",v
+1912,criminal,"có tội,phạm tội",adj
+1913,criminal,"kẻ phạm tội,tội phạm",n
+1914,towards,"theo hướng,về hướng",prep
+1915,user,"người dùng,người sử dụng",n
+1916,eastern,đông,adj
+1917,dig,"đào bới,xới",v
+1918,after,"sau,đằng sau",prep
+1919,form,"hình thể,hình dạng",n
+1920,form,"làm thành,được tạo thành",v
+1921,crisp,giòn,adj
+1922,abroad,"ở,ra nước ngoài",adv
+1923,born,"sinh,đẻ",v
+1924,mystery,"điều huyền bí,điều thần bí",n
+1925,elbow,khuỷu tay,n
+1926,tend,"trông nom,chăm sóc,giữ gìn",v
+1927,customer,khách hàng,n
+1928,manner,"/'mænз/ cách,lối",n
+1929,answer,sự trả lời,n
+1930,answer,trả lời,v
+1931,remains,"đồ thừa,cái còn lại",n
+1932,celebration,"sự kỷ niệm,lễ kỷ niệm",n
+1933,hang,"treo,mắc",v
+1934,cheese,pho mát,n
+1935,winner,người thắng cuộc,n
+1936,officer,"viên chức,cảnh sát",n
+1937,waitress,người nữ hầu bàn,n
+1938,aggressive,"xâm lược,hung hăng",adj
+1939,scene,"cảnh,phong cảnh",n
+1940,logical,"hợp lý,hợp logic",adj
+1941,universe,vũ trụ,n
+1942,conservative,"thận trọng,dè dặt",adj
+1943,salad,sa lát,n
+1945,woman,"đàn bà,phụ nữ",n
+1946,steel,"thép,ngành thép",n
+1947,sum,"tổng,toàn bộ",n
+1948,multiply,"nhân lên,làm tăng lên nhiều lần",v
+1949,concerned,"có liên quan,có dính líu",adj
+1950,date,"ngày,kỳ,kỳ hạn",n
+1951,date,đề ngày tháng,v
+1952,field,"cánh đồng,bãi chiến trường",n
+1953,model,"mẫu,kiểu mẫu",n
+1954,intend,"ý định,có ý định",v
+1955,touch,"sờ,mó",v
+1956,touch,"sự sờ,sự mó",n
+1957,hammer,búa,n
+1958,anxiety,"mối lo âu,sự lo lắng",n
+1959,highway,đường quốc lộ,n
+1960,pregnant,mang thai,adj
+1961,resistance,"sự chống lại,sự phản đối",n
+1962,shout,"hò hét,reo hò",v
+1963,shout,"sự la hét,sự hò reo",n
+1964,as,như,"prep,adv, conj."
+1965,formula,"công thức,thể thức",n
+1966,advantage,"sự thuận lợi,lợi ích",n
+1967,town,"thị trấn,thị xã",n
+1968,menu,thực đơn,n
+1969,broadcast,"tung ra khắp nơi,truyền rộng rãi",v
+1970,broadcast,"phát thanh,quảng bá",n
+1971,judge,"xét xử,phân xử",n
+1972,judge,"quan tòa,thẩm phán",v
+1973,united,"liên minh,đoàn kết,chung",adj
+1974,faithful,"trung thành,chung thủy",adj
+1975,engage,"hứa hẹn,cam kết",v
+1976,upon,"trên,ở trên",prep
+1977,available,"có thể dùng được,có giá trị",adj
+1978,educated,"được giáo dục,được đào tạo",adj
+1979,chest,"tủ,rương",n
+1980,president,"hiệu trưởng,chủ tịnh",n
+1981,difficulty,"sự khó khăn,nỗi khó khăn",n
+1982,typically,"điển hình,tiêu biểu",adv
+1983,cabinet,tủ có nhiều ngăn đựng đồ,n
+1984,fashionable,"đúng mốt,hợp thời trang",adj
+1985,perfect,hoàn hảo,adj
+1986,curved,cong,adj
+1987,eat,ăn,v
+1988,convention,"hội nghị,hiệp định",n
+1989,grateful,"biết ơn,dễ chịu",adj
+1990,specifically,"đặc trưng,riêng biệt",adv
+1991,cloth,"vải,khăn trải bàn",n
+1992,chop,"chặt,đốn",v
+1993,compete,"đua tranh,ganh đua",v
+1994,temporary,"tạm thời,nhất thời",n
+1995,injure,"làm tổn thương,làm hại",v
+1996,aged,già đi,adj
+1997,simple,"đơn,đơn giản",adj
+1998,advertisement,quảng cáo,n
+1999,improve,"cải thiện,cái tiến",v
+2000,lie,nói dối,v
+2001,lie,"lời nói dối,sự dối trá",n
+2002,against,"chống lại,phản đối",prep
+2003,scissors,cái kéo,n
+2004,rented,"được thuê,được mướn",adj
+2005,main,"chính,chủ yếu",adj
+2006,prize,"giải,giải thưởng",n
+2007,neat,"sạch,ngăn nắp",adj
+2008,outdoors,"ở ngoài trời,ở ngoài nhà",adv
+2009,trousers,quần,n
+2010,department,"cục,sở,ty",n
+2011,valid,"chắc chắn,hiệu quả",adj
+2012,whistle,"sự huýt sáo,sự thổi còi",n
+2013,whistle,"huýt sáo,thổi còi",v
+2014,social,có tính xã hội,adj
+2015,disappointed,thất vọng,adj
+2016,ear,tai,n
+2017,that,"pro người ấy,đó,vật ấy",n
+2018,that,"rằng,là",conj
+2019,vertical,"thẳng đứng,đứng",adj
+2020,rely on,"tin vào,tin cậy",v
+2021,tail,"đuôi,đoạn cuối",n
+2022,nephew,cháu trai,n
+2023,extreme,"vô cùng,khắc nghiệt,quá khích",adj
+2024,extreme,sự quá khích,n
+2025,budget,ngân sách,n
+2026,true,"đúng,thật",adj
+2027,infectious,"lây,nhiễm",adj
+2028,unpleasant,"không dễ chịu,khó chịu",adj
+2029,hesitate,"ngập ngừng,do dự",v
+2030,rural,"nông thôn,vùng nông thôn",adj
+2031,lip,môi,n
+2032,otherwise,"khác,cách khác",adv
+2033,chemistry,"hóa học,môn hóa học",n
+2034,army,quân đội,n
+2035,funny,"buồn cười,khôi hài",adj
+2036,dancer,"diễn viên múa,người nhảy múa",n
+2037,blank,"trống,để trắng",adj
+2038,blank,sự trống rỗng,n
+2039,exhibition,"cuộc triển lãm,trưng bày",n
+2040,uncle,"chú,bác",n
+2041,unit,đơn vị,n
+2042,runner,người chạy,n
+2043,pleasing,mang lại niềm vui thích,adj
+2044,popular,"có tính đại chúng,phổ biến",adj
+2046,scratch,"cào,làm xước da",v
+2047,scratch,"sự cào,sự trầy xước da",n
+2048,notice,"thông báo,yết thị",n
+2049,notice,"chú ý,để ý",v
+2050,vehicle,xe cộ,n
+2051,mile,dặm,n
+2052,bell,"cái chuông,tiếng chuông",n
+2053,wednesday,thứ 4,n
+2054,peak,lưỡi trai,n
+2055,happiness,"sự sung sướng,hạnh phúc",n
+2056,afraid,"sợ,sợ hãi",adj
+2057,shell,"vỏ,mai",n
+2058,lamp,đèn,n
+2059,maximum,"cực độ,tối đa",adj
+2060,maximum,"trị số cực đại,lượng cực đại",n
+2061,consequence,"kết quả,hậu quả",n
+2062,singer,ca sĩ,n
+2063,essentially,"về bản chất,về cơ bản",adv
+2064,gasoline,"dầu lửa,dầu hỏa",n
+2065,muscle,"cơ,bắp thịt",n
+2066,personality,"nhân cách,tính cách",n
+2067,tourist,khách du lịch,n
+2068,ceremony,"nghi thức,nghi lễ",n
+2069,exact,"chính xác,đúng",adj
+2070,engaged,"đã đính ước,đã hứa hôn",adj
+2071,spiritual,"tinh thần,linh hồn",adj
+2072,security,"sự an toàn,sự an ninh",n
+2073,capacity,"năng lực,khả năng tiếp thu",n
+2074,sheep,con cừu,n
+2075,machine,"máy,máy móc",n
+2076,stretch,"căng ra,duỗi ra",v
+2077,college,trường cao đẳng,n
+2078,site,"chỗ,vị trí",n
+2079,flash,"loé sáng,vụt sáng",v
+2080,flash,"ánh sáng lóe lên,đèn nháy",n
+2081,access,"lối,cửa",n
+2082,specific,"đặc trưng,riêng biệt",adj
+2083,engine,"máy,động cơ",n
+2084,slow,"chậm,chậm chạp",adj
+2085,nor,cũng không,conj
+2086,healthy,"khỏe mạnh,lành mạnh",adj
+2087,leader,"người lãnh đạo,lãnh tụ",n
+2088,infection,"sự nhiễm,sự đầu độc",n
+2089,nose,mũi,n
+2090,thought,"sự suy nghĩ,khả năng suy nghĩ",n
+2091,bridge,cái cầu,n
+2092,rock,đá,n
+2093,face,"mặt,thể diện",n
+2094,face,"đương đầu,đối phó",v
+2095,front,mặt,n
+2096,front,"đằng trước,về phía trước",adj
+2097,approval,"sự tán thành,đồng ý",n
+2098,neighbourhood,"hàng xóm,vùng lân cận,khoảng",n
+2099,undo,"tháo,gỡ",v
+2100,singing,"sự hát,tiếng hát",n
+2101,liquid,chất lỏng,n
+2102,liquid,"lỏng,êm ái,du dương",adj
+2103,pot,"can,bình",n
+2104,less,"pro nhỏ bé,ít hơn",n
+2105,less,số lượng ít hơn,adv
+2106,seat,"ghế,chỗ ngồi",n
+2107,husband,người chồng,n
+2108,sour,"chua,có vị giấm",adj
+2109,signature,chữ ký,n
+2110,star,"ngôi sao,dán sao,trang trí hình sao",n
+2111,manager,"người quản lý,giám đốc",n
+2112,indoor,trong nhà,adj
+2113,difficult,"khó,khó khăn",adj
+2114,farming,"công việc trồng trọt,đồng áng",n
+2115,partner,"/ đối tác,cộng sự",n
+2116,chairwoman,nữ chủ tịch,n
+2117,sympathy,"sự đồng cảm,sự đồng ý",n
+2118,station,"trạm,điểm",n
+2119,constantly,kiên định,adv
+2120,unwilling,không muốn làm điều gì,adj
+2121,repeat,"nhắc lại,lặp lại",v
+2122,affection,"tình cảm,cảm xúc",n
+2123,used,"đã dùng,đã sử dụng",adj
+2124,great,"to,lớn",adj
+2125,negative,phủ định,adj
+2126,forward,"về tương lai,sau này ở phía trước",adj
+2127,significant,"nhiều ý nghĩa,quan trọng",adj
+2128,fence,hàng rào,n
+2129,sugar,đường,n
+2130,street,"phố,đườmg phố",n
+2131,dollar,đô la Mỹ,n
+2132,alcohol,rừợu cồn,n
+2133,theatre,"rạp hát,nhà hát",n
+2134,heat,"hơi nóng,sức nóng",n
+2135,communicate,"truyền,truyền đạt",v
+2136,annually,"hàng năm,từng năm",adv
+2137,war,chiến tranh,n
+2138,invent,"phát minh,sáng chế",v
+2139,illegal,"trái luật,bất hợp pháp",adj
+2140,emotional,"cảm động,xúc động",adj
+2141,move,"di chuyển,chuyển động",v
+2142,move,"sự di chuyển,sự chuyển động",n
+2143,usually,thường thường,adv
+2144,stressed,"bị căng thẳng,bị ép",adj
+2145,mixed,"lẫn lộn,pha trộn",adj
+2146,dull,"chậm hiểu,ngu đần",adj
+2147,present,"có mặt,hiện diện",n
+2148,present,"hiện nay,hiện thời",v
+2149,glass,"kính,thủy tinh,cái cốc",n
+2150,soldier,"lính,quân nhân",n
+2151,possibility,"khă năng,triển vọng",n
+2152,ordinary,"thường,thông thường",adj
+2153,criticism,"sự phê bình,sự phê phán,lời phê bình",n
+2154,examine,"thẩm tra,khám xét",v
+2155,director,"giám đốc,người điều khiển",n
+2156,battle,"trận đánh,chiến thuật",n
+2157,elect,"bầu,quyết định",v
+2158,let,"cho phép,để cho",v
+2159,mind,"tâm trí,tinh thần",n
+2160,mind,"chú ý,để ý,chăm sóc",v
+2161,relevant,"thích hợp,có liên quan",adj
+2162,ban,"cấm,cấm chỉ",v
+2163,ban,sự cấm,n
+2164,fasten,"buộc,trói",v
+2165,shirt,áo sơ mi,n
+2166,morally,có đạo đức,adv
+2167,dry,"khô,cạn",adj
+2168,dry,"làm khô,sấy khô",v
+2169,construct,xây dựng,v
+2170,snake,con rắn,n
+2171,blame,"khiển trách,mắng trách",v
+2172,blame,"sự khiển trách,sự mắng trách",n
+2173,pour,"rót,đổ",v
+2176,pupil,học sinh,n
+2177,yesterday,hôm qua,adv
+2178,driving,"sự lái xe,cuộc đua xe",n
+2179,health,"sức khỏe,thể chất",n
+2180,swear,"chửi rủa,nguyền rủa",v
+2181,drop,"chảy nhỏ giọt,rơi",v
+2182,drop,giọt,n
+2183,impress,"ghi,khắc",v
+2184,half,"pro một nửa,phần chia đôi",n
+2185,half,nửa,adv
+2186,princess,công chúa,n
+2187,huge,"to lớn,khổng lồ",adj
+2188,together,"cùng nhau,cùng với",adv
+2189,travel,"đi lại,đi du lịch",v
+2190,travel,"sự đi,những chuyến đi",n
+2191,possibly,"có lẽ,có thể",adv
+2192,cheerful,"vui mừng,phấn khởi",adj
+2193,by,"bởi,bằng",prep
+2194,skilled,"có kỹ năng,có kỹ sảo",adj
+2195,mention,"kể ra,nói đến",v
+2196,evening,"buổi chiều,tối",n
+2197,surname,họ,n
+2198,development,"sự phát triển,sự trình bày",n
+2199,mysterious,"thần bí,huyền bí",adj
+2200,agreement,"sự đồng ý,tán thành",n
+2201,coin,tiền kim loại,n
+2202,photocopy,bản sao chụp,n
+2203,photocopy,sao chụp,v
+2204,definite,"xác định,định rõ",adj
+2205,tune,"điệu,giai điệu",n
+2206,tune,"lên dây,so dây",v
+2207,continue,"tiếp tục,làm tiếp",v
+2208,capture,"bắt giữ,bắt",v
+2209,capture,"sự bắt giữ,sự bị bắt",n
+2210,climbing,sự leo trèo,n
+2211,personally,"đích thân,bản thân,về phần rôi",adv
+2212,possession,"quyền sở hữu,vật sở hữu",n
+2213,disturb,"làm mất yên tĩnh,làm náo động",v
+2214,camp,"trại,chỗ cắm trại",n
+2215,camp,"cắm trại,hạ trại",v
+2216,bid,"đặt giá,trả giá",v
+2217,bid,"sự đặt giá,sự trả giá",n
+2218,apart from,ngoài ra,prep
+2219,sing,"hát,ca hát",v
+2220,follow,"đi theo sau,theo",v
+2221,press,"sự ép,sự nén",n
+2222,press,"ép,nén,bóp",v
+2223,admire,"khâm phục,thán phục",v
+2224,reputation,"sự nổi tiếng,nổi danh",n
+2225,most,"pro lớn nhất,nhiều nhất",n
+2226,most,"nhất,hơn cả",adv
+2227,trading,"sự kinh doanh,việc mua bán",n
+2228,advise,"khuyên,khuyên bảo",v
+2229,stock,"kho sự trữ,hàng dự trữ",n
+2230,carefully,"cẩn thận,chu đáo",adv
+2231,join,"gia nhập,tham gia",v
+2232,unwillingly,miễn cưỡng,adv
+2233,further,xa hơn nữa,adj
+2234,beginning,"phần đầu,lúc bắt đầu",n
+2235,solution,"sự giải quyết,giải pháp",n
+2236,spare,"thừa thãi,dự trữ",adj
+2237,spare,"đồ dự trữ,đồ dự phòng",n
+2238,behalf,sự thay mặt,n
+2239,willingness,"sự bằng lòng,sự vui lòng",n
+2240,tell,"nói,nói với",v
+2241,wealth,"sự giàu có,sự giàu sang",n
+2242,chicken,"gà,gà con",n
+2243,smooth,"nhẵn,trơn",adj
+2244,draft,"bản phác thảo,sơ đồ thiết kế",n
+2245,draft,"phác thảo,thiết kế",adj
+2246,keyboard,bàn phím,n
+2247,anxiously,"lo âu,lo lắng",adv
+2248,ever,"từng,từ trước tới giờ",adv
+2249,gun,súng,n
+2250,wherever,"ở bất cứ nơi nào,ở bất cứ nơi đâu",conj
+2251,music,"nhạc,âm nhạc",n
+2252,survey,"sự nhìn chung,sự khảo sát",n
+2253,survey,"quan sát,nghiên cứu",v
+2254,electricity,"điện,điện lực",n
+2255,valuable,"có giá trị lớn,đáng giá",adj
+2256,niece,cháu gái,n
+2257,sadness,"sự buồn rầu,sự buồn bã",n
+2258,cheque,séc,n
+2259,recommend,"giới thiệu,tiến cử",v
+2260,remain,"còn lại,vẫn còn như cũ",v
+2261,dislike,"sự không ưa,không thích",v
+2262,down,xuống,adv
+2263,previously,"trước,trước đây",adv
+2264,legally,hợp pháp,adv
+2265,tropical,nhiệt đới,adj
+2266,secretly,"bí mật,riêng tư",adv
+2267,dishonest,"bất lương,không thành thật",adj
+2268,bullet,đạn,n
+2269,animal,"động vật,thú vật",n
+2270,pipe,ống dẫn,n
+2271,reckon,"tính,đếm",v
+2272,fixed,"đứng yên,bất động",adj
+2273,forget,quên,v
+2274,bed,cái giường,n
+2275,shocking,"gây ra căm phẫn,tồi tệ",adj
+2276,data,"số liệu,dữ liệu",n
+2277,confusion,"sự lộn xộn,sự rối loạn",n
+2278,annual,"hàng năm,từng năm",adj
+2279,relaxed,"thanh thản,thoải mái",adj
+2280,anyone,"người nào,bất cứ ai",n
+2281,excluding,"ngoài ra,trừ ra",prep
+2282,efficiently,"có hiệu quả,hiệu nghiệm",adv
+2283,police,"cảnh sát,công an",n
+2284,mud,bùn,n
+2285,unusually,"cực kỳ,khác thường",adv
+2286,used to,đã quen dùng,v
+2287,steal,"ăn cắp,ăn trộm",v
+2288,either,"mỗi,một",adv
+2289,company,công ty,n
+2290,weapon,vũ khí,n
+2291,thus,"như vậy,như thế",adv
+2292,upside down,lộn ngược,adv
+2293,academic,"thuộc học viện,ĐH",adj
+2294,severely,"khắt khe,gay gắt",adv
+2295,carrot,củ cà rốt,n
+2296,properly,"một cách đúng đắn,một cách thích đáng",adv
+2297,pint,panh,n
+2299,absence,sự vắng mặt,n
+2300,unnecessary,"không cần thiết,không mong muốn",adj
+2301,catch,"bắt lấy,nắm lấy,tóm lấy",v
+2303,snow,tuyết,n
+2304,snow,tuyết rơi,v
+2305,fault,"sự thiết sót,sai sót",n
+2306,direct,"trực tiếp,thẳng",adj
+2307,direct,"gửi,viết cho ai",v
+2308,nervous,"hoảng sợ,dễ bị kích thích",adj
+2309,lawyer,luật sư,n
+2310,chair,ghế,n
+2311,passenger,hành khách,n
+2312,worker,người lao động,n
+2313,determined,"đã được xác định,đã được xác định rõ",adj
+2314,tight,"kín,chặt",adj
+2315,wheel,bánh xe,n
+2316,rider,"người cưỡi ngựa,người đi xe đạp",n
+2317,spin,"quay,quay tròn",v
+2318,loud,"to,inh ỏi",adj
+2319,loud,"to,lớn",adv
+2320,senator,thượng nghị sĩ,n
+2321,symbol,"biểu tượng,ký hiệu",n
+2322,style,"phong cách,kiểu,mẫu",n
+2323,heavily,"nặng,nặng nề",adv
+2324,depressing,"làm chán nản làm thát vọng,làm trì trệ",adj
+2325,ground,"mặt đất,đất",n
+2326,relative,có liên quan đến,adj
+2327,relative,"người có họ,đại từ quan hệ",n
+2328,mirror,gương,n
+2329,suppose,"cho rằng,tin rằng",v
+2330,successful,"thành công,thắng lợi",adj
+2331,gate,cổng,n
+2332,fact,"việc,sự việc",n
+2333,experience,kinh nghiệm,n
+2334,experience,"trải qua,nếm mùi",v
+2335,sexual,"giới tính,các vấn đề sinh lý",adj
+2336,embarrassment,"sự lúng túng,sự bối rối",n
+2337,sincere,"thật thà,thẳng thắng",adj
+2338,ill,ốm,adj
+2339,such,"pro như thế,như vậy",n
+2340,contribution,"sự đóng góp,sự góp phần",n
+2341,agent,"đại lý,tác nhân",n
+2342,cook,"nấu ăn,người nấu ăn",v
+2343,view,"sự nhìn,tầm nhìn",n
+2344,view,"nhìn thấy,xem",v
+2345,blue,"xanh,màu xanh",adj
+2346,opposition,"sự đối lập,sự đối nhau",n
+2347,seem,"có vẻ như,dường như",v
+2348,powerful,"hùng mạnh,hùng cường",adj
+2349,guide,"điều chỉ dẫn,người hướng dẫn",n
+2350,guide,"dẫn đường,chỉ đường",v
+2351,substantially,"về thực chất,về căn bản",adv
+2352,refusal,"sự từ chối,sự khước từ",n
+2353,staff,"gậy quyền,quyền trượng,nhân viên",n
+2354,typical,"tiêu biểu,điển hình",adj
+2355,unless,"trừ phi,trừ khi",conj
+2356,cup,"tách,chén",n
+2357,declare,"tuyên bố,công bố",v
+2358,mineral,"công nhân,thợ mỏ",n
+2359,mineral,khoáng,adj
+2360,chew,"nhai,ngẫm nghĩ",v
+2361,forever,mãi mãi,adv
+2362,client,khách hàng,n
+2363,praise,"sự ca ngợi,sự tán dương,lòng tôn kính",n
+2364,praise,"khen ngợi,tán dương",v
+2365,naked,"trần,khỏa thân",adj
+2366,protect,"bảo vệ,che chở",v
+2367,trace,"phát hiện,tìm thấy,vạch",v
+2368,trace,"dấu,vết",n
+2369,noisy,"ồn ào,huyên náo",adj
+2370,minority,"phần ít,thiểu số",n
+2371,floor,"sàn,tầng",n
+2372,extremely,"vô cùng,cực độ",adv
+2373,bit,"miếng,mảnh",n
+2374,bush,"bụi cây,bụi rậm",n
+2375,dishonestly,"bất lương,không lương thiện",adv
+2376,arrow,"tên,mũi tên",n
+2377,software,phần mềm,n
+2378,protection,"sự bảo vệ,sự che chở",n
+2379,packaging,bao bì,n
+2380,breakfast,"bữa điểm tâm,bữa sáng",n
+2381,nearby,gần,adj
+2382,report,"báo cáo,tường trình",v
+2383,report,"bản báo cáo,bản tường trình",n
+2384,beach,bãi biển,n
+2385,hate,ghét,v
+2386,hate,"lòng căm ghét,thù hận",n
+2387,completely,"hoàn thành,đầy đủ",adv
+2388,charity,"lòng từ thiện,lòng nhân đức",n
+2389,therefore,"bởi vậy,cho nên",adv
+2390,burn,"đốt,đốt cháy,thắp",v
+2391,count,"đếm,tính",v
+2392,divide,"chia,chia ra",v
+2393,vote,"sự bỏ phiếu,sự bầu cử",n
+2394,vote,"bỏ phiếu,bầu cử",v
+2395,keep,"giữ,giữ lại",v
+2396,stone,đá,n
+2397,pointed,"nhọn,có đầu nhọn",adj
+2398,status,"tình trạng,địa vị",n
+2399,generally,"nói chung,đại thể",adv
+2400,faith,"sự tin tưởng,tin cậy",n
+2401,equivalent,tương đương,adj
+2402,equivalent,"từ,vật tương đương",n
+2403,politically,về mặt chính trị,adv
+2404,score,"điểm số,bản thắng",n
+2405,score,"đạt được,thành công",v
+2406,awkward,"vụng về,lung túng",adj
+2407,reasonably,hợp lý,adv
+2408,alphabetical,thuộc bảng chứ cái,adj
+2409,cow,con bò cái,n
+2412,egg,trứng,n
+2413,flu,bệnh cúm,n
+2414,lightly,nhẹ nhàng,adv
+2415,secretary,thư ký,n
+2416,breathe,"hít,thở",v
+2417,pass,"qua,vượt qua",v
+2418,process,"quá trình,sự tiến triển",n
+2419,process,"chế biến,gia công",v
+2420,severe,"khắt khe,gay gắt",adj
+2421,heart,"tim,trái tim",n
+2422,oven,lò,n
+2423,betting,sự đánh cuợc,n
+2424,page,trang,n
+2425,warm,"ấm,ấm áp",adj
+2426,warm,"làm cho nóng,hâm nóng",v
+2427,mild,"nhẹ,êm dịu",adj
+2428,infected,"bị nhiễm,bị đầu độc",adj
+2429,photographer,"thợ chụp ảnh,nhà nhiếp ảnh",n
+2430,finely,"đẹp đẽ,tế nhị",adv
+2431,club,câu lạc bộ,n
+2432,normally,"thông thường,như thường lệ",adv
+2433,horror,"điều kinh khủng,sự ghê rợn",n
+2434,knowledge,"sự hiểu biết,tri thức",n
+2435,interior,"phần trong,phía trong",n
+2436,interior,"ở trong,ở phía trong",adj
+2437,bet,"đánh cược,cá cược",v
+2438,bet,sự đánh cược,n
+2439,pretty,"khá,vừa phải",adv
+2440,pretty,"xinh,xinh xắn",adj
+2441,indirectly,gián tiếp,adv
+2442,work,"làm việc,sự làm việc",v
+2443,wine,"rượu,đồ uống",n
+2444,ago,trước đây,adv
+2445,succeed,"nối tiếp,kế tiếp",v
+2446,road,"con đường,đường phố",n
+2447,awake,"đánh thức,làm thức dậy",adj
+2448,deliberately,"thận trọng,có suy nghĩ cân nhắc",adv
+2449,citizen,người thành thị,n
+2450,any,"một người nào đó",n
+2451,any,bất cứ,adv
+2452,reservation,"sự hạn chế,điều kiện hạn chế",n
+2453,interested,"có thích thú,có quan tâm",adj
+2454,place,"nơi,địa điểm",n
+2455,place,quảng trường,v
+2456,network,"mạng lưới,hệ thống",n
+2457,somewhere,nơi nào đó. đâu đó,adv
+2458,minor,"nhỏ hơn,thứ yếu",adj
+2459,dissolve,"tan rã,phân hủy",v
+2460,machinery,"máy móc,thiết bị",n
+2461,smell,ngửi,v
+2462,smell,"sự ngửi,khứu giác",n
+2463,institution,"sự thành lập,lập",n
+2464,video,video,n
+2465,granddaughter,cháu gái,n
+2466,suggestion,"sự đề nghị,sự đề xuất",n
+2467,union,"liên hiệp,sự đoàn kết",n
+2468,waiter,"người hầu bàn,người đợi",n
+2469,shall,dự đoán tương lai: sẽ,v
+2470,principle,"cơ bản,chủ yếu",n
+2471,skilful,"tài giỏi,khéo tay",adj
+2472,deserted,"hoang vắng,không người ở",adj
+2473,brand,nhãn,n
+2474,independence,"sự độc lập,nền độc lập",n
+2475,indicate,"chỉ,cho biết",v
+2476,chart,"đồ thị,biểu đồ",n
+2477,chart,"vẽ đồ thị,lập biểu đồ",v
+2478,address,"địa chỉ,đề địa chỉ",n
+2479,proportion,"sự cân xứng,sự cân đối",n
+2480,jacket,áo vét,n
+2481,win,"chiếm,đọat",v
+2482,confusing,"khó hiểu,gây bối rối",adj
+2483,flour,"bột,bột mỳ",n
+2484,tower,tháp,n
+2485,loyal,"trung thành,trung kiên",adj
+2486,aim,"sự nhắm,mục tiêu",n
+2487,aim,"nhắm,tập trung",v
+2488,grave,"mộ,dấu huyền",n
+2489,grave,"trang nghiêm,nghiêm trọng",adj
+2490,incident,"việc xảy ra,việc có liên quan",n
+2491,shortly,"trong thời gian ngắn,sớm",adv
+2492,juice,nước ép,n
+2493,bubble,"bong bóng,bọt",n
+2494,faithfully,"trung thành,chung thủy",adv
+2495,action,"hành động,hành vi",n
+2496,neighbour,hàng xóm,n
+2497,silly,"ngớ ngẩn,ngu ngốc",adj
+2498,modern,"hiện đại,tân tiến",adj
+2499,traffic,"sự đi lại,sự giao thông",n
+2500,cellphone,điện thoại di động,n
+2501,cover,"bao bọc,che phủ",v
+2502,cover,"vỏ,vỏ bọc",n
+2503,satisfaction,"sự làm cho thỏa mãn,toại nguyện",n
+2504,mate,"bạn,bạn nghề",n
+2505,mate,giao phối,v
+2506,goods,"của cải,tài sản",n
+2507,limited,"hạn chế,có giới hạn",adj
+2508,mix,"pha,trộn lẫn",v
+2509,mix,sự pha trộn,n
+2510,shocked,"bị kích động,bị va chạm",adj
+2511,border,"bờ,mép,vỉa",n
+2512,burst,"nổ,nổ tung",v
+2513,burst,"sự nổ tung, sự bùng lên",n
+2515,opinion,"ý kiến,quan điểm",n
+2516,concern,"liên quan,dính líu tới",v
+2517,concern,"sự liên quan,sự dính líu tới",n
+2518,unload,"tháo,dỡ",v
+2519,propose,"đề nghị,đề xuất",v
+2520,fame,"tên tuổi,danh tiếng",n
+2521,likely,"có thể đúng,có thể xảy ra",adj
+2522,likely,"có thể,chắc vậy",adv
+2523,contract,"hợp đồng,sự ký hợp đồng",n
+2524,contract,ký kết,v
+2525,certainly,"chắc chắn,nhất định",adv
+2526,complain,"phàn nàn,kêu ca",v
+2527,alter,"thay đổi,biến đổi",v
+2528,disabled,"bất lực,không có khă năng",adj
+2529,qualification,"phẩm chất,năng lực",n
+2530,weak,"yếu,yếu ớt",adj
+2531,wash,"rửa,giặt",v
+2532,speak,nói,v
+2533,error,"lỗi,sự sai sót",n
+2534,polish,"nước bóng,nước láng",n
+2535,polish,"đánh bóng,làm cho láng",v
+2536,initial,"ban đầu,lúc đầu",adj
+2537,initial,chữ đầu,n
+2538,apparent,"rõ ràng,rành mạch",adj
+2539,flying,biết bay,adj
+2540,flying,"sự bay,chuyến bay",n
+2541,yard,"lat,thước Anh",n
+2542,bicycle,xe đạp,n
+2543,example,"thí dụ,ví dụ",n
+2544,importantly,"quan trọng,trọng yếu",adv
+2545,reception,"sự nhận,sự tiếp nhận",n
+2546,past,"quá khứ,dĩ vãng",adj
+2547,past,"quá,qua",adv
+2548,look,nhìn,v
+2549,look,cái nhìn,n
+2550,obey,"vâng lời,tuân theo",v
+2551,gap,"đèo,lỗ hổng",n
+2552,stress,sự căng thẳng,n
+2553,stress,"căng thẳng,ép",v
+2554,largely,"phong phú,ở mức độ lớn",adv
+2555,traveller,"người đi,lữ khách",n
+2556,somebody,pro người nào đó,n
+2557,sale,việc bán hàng,n
+2558,eventually,cuối cùng,adv
+2559,sack,bào tải,n
+2560,sack,"đóng bao,bỏ vào bao",v
+2561,purpose,"mục đích,ý định",n
+2562,prompt,"mau lẹ,nhanh chóng",adj
+2563,prompt,"xúi,giục",v
+2564,wood,gỗ,n
+2565,approximate,"giống với,giống hệt với",+to
+2566,paper,giấy,n
+2567,sufficient for,"đủ,thích đáng",adj
+2568,matter,"chất,vật chất",n
+2569,matter,"có ý nghĩa,có tính chất quan trọng",v
+2570,ring,"chiếc nhẫn,đeo nhẫn cho ai",n
+2571,expression,"sự diễn tả,sự bày tỏ,biểu lộ",n
+2572,imply,"ngụ ý,bao hàm",v
+2573,senior,"nhiều tuổi hơn,dành cho trẻ em trên 11t,sinh viên năm cuối trường trung học",adj
+2574,frighten,"làm sợ,làm hoảng sợ",v
+2575,threaten,"dọa,đe dọa",v
+2576,basically,"cơ bản,về cơ bản",adv
+2577,second,"thứ hai,ở vị trí thứ 2",adv
+2578,second,người về nhì,n
+2579,glove,"bao tay,găng tay",n
+2580,colleague,bạn đồng nghiệp,n
+2581,enjoyment,"sự thích thú,sự có được",n
+2582,indeed,"thật vậy,quả thật",adv
+2583,container,"cái đựng,chứa",n
+2584,uncertain,"không chắc chắn,khôn biết rõ ràng",adj
+2585,sheet,"chăn,khăn trải giường",n
+2586,related to,"có liên quan,có quan hệ với ai",adj
+2587,before,"trước",adv
+2588,contest,"cuộc thi,trận đấu,cuộc tranh luận",n
+2589,person,"con người,người",n
+2590,horizontal,"chân trời,ở chân trời",adj
+2591,horizontal,"ngang,nằm ngang",adv
+2592,privately,"riêng tư,cá nhân",adv
+2593,ease,"sự thanh thản,sự thoải mái",n
+2594,ease,"làm thanh thản,làm yên tâm",v
+2595,luggage,hành lý,n
+2596,skilfully,"tài giỏi,khéo tay",adv
+2597,since,"từ,từ khi",adv
+2598,disappoint,"không làm thỏa ước nguyện,ý mong đợi",v
+2599,interrupt,"làm gián đoạn,ngắt lời",v
+2600,disk,"đĩa,đĩa hát",n
+2601,humour,"sự hài hước,sự hóm hỉnh",n
+2602,float,"nổi,trôi",v
+2603,ourselves,"pro bản thân chúng ta,bản thân chúng tôi",n
+2604,dramatically,đột ngột,adv
+2605,swell,"phồng,sưng lên",v
+2606,satisfy,"làm thỏa mãn,hài lòng",v
+2608,essay,bài tiểu luận,n
+2609,clerk,"thư ký,linh mục",n
+2610,involvement,"sự gồm,sự bao hàm",n
+2611,thumb,ngón tay cái,n
+2612,patience,"tính kiên nhẫn,nhẫn nại,kiên trì",n
+2613,poison,"chất độc,thuốc độc",n
+2614,poison,"đánh thuốc độc,tẩm thuốc độc",v
+2615,translation,sự dịch,n
+2616,thief,"kẻ trộm,kẻ cắp",n
+2617,path,đường mòn,n
+2618,channel,"kênh,eo biển",n
+2619,frequent,thường xuyên,adj
+2620,abuse,"lộng hành,lạm dụng",n
+2621,confident,"tin tưởng,tin cậy",adj
+2622,ambition,"hoài bão,khát vọng",n
+2623,dictionary,từ điển,n
+2624,picture,"bức vẽ,bức họa",n
+2625,sense,"giác quan,tri giác",n
+2626,whoever,"pro ai,người nào,bất cứ ai",n
+2627,investment,"sự đầu tư,vốn đầu tư",n
+2628,debt,nợ,n
+2629,tone,"tiếng,giọng",n
+2630,amazedly,"kinh ngạc,sửng sốt",adv
+2631,shut,"đóng,khép",v
+2632,shut,tính khép kín,adj
+2633,folding,gấp lại được,adj
+2634,assistant,"người giúp đỡ,người phụ tá",n
+2635,assistant,giúp đỡ,adj
+2636,existence,"sự tồn tại,sự sống",n
+2637,instance,"thí dị,ví dụ",n
+2638,enemy,"kẻ thù,quân địch",n
+2639,surprisingly,"làm ngạc nhiên,làm bất ngờ",adv
+2640,storm,"cơn giông,bão",n
+2641,freedom,sự tự do,n
+2642,death,"sự chết,cái chết",n
+2643,deaf,"điếc,làm thinh",adj
+2644,gram,đậu xanh,n
+2645,sincerely,một cách chân thành,adv
+2646,check,kiểm tra,v
+2647,check,sự kiểm tra,n
+2648,dream,"giấc mơ,mơ",n
+2649,assume,"mang,khoác,có",v
+2650,August,tháng Tám,n
+2651,printer,"máy in,thợ in",n
+2652,breast,"ngực,vú",n
+2653,frozen,lạnh giá,adj
+2654,difference,sự khác nhau,n
+2655,design,"sự thiết kế,kế hoạch",n
+2656,realistic,hiện thực,adj
+2657,happily,"sung sướng,hạnh phúc",adv
+2658,village,"làng,xã",n
+2659,average,"adj.,trung bình,số trung bình",n
+2660,mail,"thư từ,bưu kiện",n
+2661,mail,gửi qua bưu điện,v
+2662,mean,"nghĩa,có nghĩa là",v
+2663,sign,"dấu,dấu hiệu",n
+2664,sign,"đánh dấu,viết ký hiệu",v
+2665,fur,bộ da lông thú,n
+2666,married,"cưới,kết hôn",adj
+2667,yet,"còn,hãy cỏn",adv
+2668,yet,"như mà,xong,tuy thế",conj
+2669,fold,"gấp,vén",v
+2670,fold,nếp gấp,n
+2671,protest,"sự phản đối,sự phản kháng",n
+2672,protest,"phản đối,phản kháng",v
+2673,April,tháng Tư,n
+2674,mistaken,"sai lầm,hiểu lầm",adj
+2675,shadow,"bóng,bóng tối,bóng râm",n
+2676,representative,"điều tiêu biểu,tượng trưng",n
+2677,representative,"miêu tả,biểu hiện",adj
+2678,request,"lời thỉnh cầu,lời đề nghị",n
+2679,request,thỉnh cầu,v
+2680,junior,"trẻ hơn,ít tuổi hơn",adj
+2681,junior,người ít tuổi hơn,n
+2682,stare,nhìn chằm chằm,v
+2683,stare,sự nhìn chằm chằm,n
+2684,suspicious,"có sự nghi ngờ,tỏ ra nghi ngờ",adj
+2685,confined,"hạn chế,giới hạn",adj
+2686,throat,"cổ,cổ họng",n
+2687,gift,quà tặng,n
+2688,aunt,"cô,dì",n
+2689,pursue,"đuổi theo,đuổi bắt",v
+2690,imagination,"trí tưởng tượng,sự tưởng tượng",n
+2691,breathing,"sự hô hấp,sự thở",n
+2692,so,"như vậy,như thế",adv
+2693,so,"vì thế,vì vậy",conj
+2694,point,"mũi nhọn,điểm",n
+2695,point,"vót,làm nhọn",v
+2696,deal,"phân phát,phân phối",v
+2697,deal,"sự giao dịch,thỏa thuận mua bán",n
+2698,local,"địa phương,bộ phận",adj
+2699,statue,tượng,n
+2700,welcome,"chào mừng,hoan nghênh",v
+2701,generous,"rộng lượng,khoan hồng",adj
+2702,record,"bản ghi,sự ghi,bản thu",n
+2703,record,"thu,ghi chép",v
+2704,arm,cánh tay,n
+2705,arm,"vũ trang,trang bị",v
+2706,depend on,"phụ thuộc,tùy thuộc",v
+2707,benefit,"lợi,lợi ích",n
+2708,benefit,"giúp ích,làm lợi cho",v
+2709,jealous,"ghen,ghen tị",adj
+2710,planning,"sự lập kế hoạch,sự quy hoạch",n
+2711,efficient,"có hiệu lực,có hiệu quả",adj
+2712,essential,"bản chất,thực chất",adj
+2713,essential,yếu tố cần thiết,n
+2714,blond,vàng hoe,adj
+2715,official,"chính quyền,văn phòng",adj
+2716,official,"viên chức,công chức",n
+2717,ability,"khả năng,năng lực",n
+2718,secret,bí mật,adj
+2719,secret,điều bí mật,n
+2720,insist on,"cứ nhất định,cứ khăng khăng",v
+2721,contemporary,"đương thời,đương đại",adj
+2722,desert,sa mạc,n
+2723,desert,"công lao,giá trị",v
+2724,disapproval,"sự phản đổi,sự không tán thành",n
+2725,among,"giữa,ở giữa",prep
+2726,absorb,"thu hút,hấp thu",v
+2727,boat,"tàu,thuyền",n
+2728,inside,"mặt trong,phía",n
+2729,inside,"ở trong,nội bộ",adj
+2730,balance,cái cân,n
+2731,balance,"làm cho cân bằng,tương xứng",v
+2732,nation,"dân tộc,quốc gia",n
+2733,neck,cổ,n
+2734,physics,vật lý học,n
+2735,launch,hạ thủy,v
+2736,launch,khai trương,n
+2738,imagine,"tưởng tượng,hình dung",v
+2739,stamp,tem,n
+2740,stamp,dán tem,v
+2741,organization,"tổ chức,cơ quan",n
+2742,come,"đến,tới,đi đến",v
+2743,elderly,"có tuổi,cao tuổi",adj
+2744,low,"thấp,bé",adj
+2745,acid,axit,n
+2746,weight,trọng lượng,n
+2747,cycle,"chu kỳ,chu trình",n
+2748,cycle,"quay vòng theo chu kỳ,đi xe đạp",v
+2749,beautiful,đẹp,adj
+2750,necessarily,"tất yếu,nhất thiết",adv
+2751,traditional,"theo truyền thống,theo lối cổ",adj
+2752,beer,rượu bia,n
+2753,able,"có năng lực,có tài",adj
+2754,unexpected,"bất ngờ,đột ngột",adj
+2755,rear,phía sau,n
+2756,rear,"ở đằng sau,ở đằng sau",adj
+2757,head,cái đầu,n
+2758,head,"chỉ huy,lãnh đại",v
+2759,foundation,"sự thành lập,sự sáng lập",n
+2760,fit,"hợp,vừa",v
+2761,fit,"thích hợp,xứng đáng",adj
+2762,midday,"trưa,buổi trưa",n
+2763,calculate,tính toán,v
+2764,sky,"trời,bầu trời",n
+2765,reduce,"giảm,giảm bớt",v
+2766,merely,"chỉ,đơn thuần",adv
+2767,glue,"keo,hồ",n
+2768,glue,"gắn lại,dán bằng keo",v
+2769,crash,vải thô,n
+2770,crash,"sự rơi,sự phá sản",v
+2772,county,"hạt,tỉnh",n
+2773,cancer,bệnh ung thư,n
+2774,gain,"lợi,lợi ích",v
+2775,gain,"giành được,kiếm được",n
+2776,cupboard,1 loại tủ có ngăn,n
+2777,businesswoman,thương nhân,n
+2778,lonely,"cô đơn,bơ vơ",adj
+2779,make,"làm,chế tạo",v
+2780,make,sự chế tạo,n
+2781,grow,"mọc,mọc lên",v
+2782,immoral,"trái đạo đức,luân lý",adj
+2783,install,đặt,v
+2784,heaven,thiên đường,n
+2785,tomato,cà chua,n
+2786,only,"chỉ có 1,duy nhất",adj
+2787,only,"chỉ,mới",adv
+2788,city,thành phố,n
+2789,slowly,"một cách chậm chạp,chậm dần",adv
+2790,nevertheless,"tuy nhiên,tuy thế mà",adv
+2791,deliberate,"thận trọng,có tính toán,chủ tâm",adj
+2792,bore,"buồn chán,buồn tẻ",v
+2793,total,"tổng cộng,toàn bộ",adj
+2794,total,"tổng số,toàn bộ số lượng",n
+2795,generously,"rộng lượng,hào phóng",adv
+2796,marry,"cưới,lấy",v
+2797,then,"khi đó,lúc đó",adv
+2798,affair,việc,n
+2799,calmly,"yên lặng,êm ả",adv
+2800,peace,"hòa bình,sự hòa thuận",n
+2801,mixture,"sự pha trộn,sự hỗn hợp",n
+2802,kid,"con dê non,đứa trẻ con",n
+2803,provide,"chuẩn bị đầy đủ,dự phòng",v
+2804,promotion,"sự thăng chức,sự thăng cấp",n
+2805,rich,"giàu,giàu có",adj
+2806,boil,"sôi,luộc",v
+2807,litre,lít,n
+2808,atmosphere,khí quyển,n
+2809,procedure,thủ tục,n
+2810,account,"tài khoản,kế toán",n
+2811,account,"tính toán,tính đến",v
+2812,odd,"kỳ quặc,kỳ cục",adj
+2813,executive,"sự thi hành,chấp hành",n
+2814,executive,"sự thi hành,chấp hành",adj
+2815,prospect,"viễn cảnh,toàn cảnh",n
+2816,characteristic,"riêng,riêng biệt,đặc trưng",adj
+2817,damp,"ẩm,ẩm ướt",adj
+2818,knitted,"được đan,được thêu",adj
+2819,acceptable,"có thể chấp nhận,chấp thuận",adj
+2820,basic,"cơ bản,cơ sở",adj
+2821,uncontrolled,"không bị kiềm chế,không bị kiểm tra",adj
+2822,chapter,chương,n
+2823,potential,tiềm năng,adj
+2824,potential,"khả năng,tiềm lực",n
+2825,shot,"đạn,viên đạn",n
+2826,big,"to,lớn",adj
+2827,approve of,"tán thành,đồng ý",v
+2828,prayer,sự cầu nguyện,n
+2829,disturbing,xáo trộn,adj
+2830,deliver,"cứu khỏi,thoát khỏi,bày tỏ",v
+2831,polite,"lễ phép,lịch sự",adj
+2832,cookie,bánh quy,n
+2833,resort,"kế sách,phương kế",n
+2834,apart,"về một bên,qua một bên",adv
+2835,explain,"giải nghĩa,giải thích",v
+2836,white,trắng,adj
+2837,white,màu trắng,n
+2838,arms,"vũ khí,binh giới",n
+2839,disgusting,"làm ghê tởm,kinh tởm",adj
+2840,scientist,nhà khoa học,n
+2841,payment,"sự trả tiền,số tiền trả",n
+2842,exciting,"hứng thú,thú vị",adj
+2843,temperature,nhiệt độ,n
+2844,quickly,nhanh,adv
+2845,moreover,"hơn nữa,ngoài ra",adv
+2846,political,"về chính trị,về chính phủ",adj
+2847,jelly,thạch,n
+2848,prepared,đã được chuẩn bị,adj
+2849,spot,"dấu,đốm",n
+2850,slide,"trượtc,chuyển động nhẹ",v
+2851,supply,"sự cung cấp,nguồn cung cấp",n
+2852,supply,"cung cấp,đáp ứng",v
+2853,crisis,"sự khủng hoảng,cơn khủng hoảng",n
+2854,rush,"xông lên,lao vào",v
+2855,rush,"sự xông lên,sự lao vào",n
+2856,suffer,"chịu đựng,chịu thiệt hại",v
+2857,dead,"chết,tắt",adj
+2858,substance,chất liệu,n
+2859,net,"lưới,mạng",n
+2860,thank,cám ơn,v
+2861,reward,"sự thưởng,phần thưởng",n
+2862,reward,"thưởng,thưởng công",v
+2863,knitting,việc đan,n
+2864,disapproving,phản đối,adj
+2865,totally,hoàn toàn,adv
+2866,triangle,hình tam giác,n
+2867,publication,sự công bố,n
+2868,cheat,"lừa,lừa đảo",v
+2869,cheat,"trò lừa đảo,trò gian lận",n
+2870,manufacturing,"sự sản xuất,sự chế tạo",n
+2871,suitcase,va li,n
+2872,frightened,"hoảng sợ,khiếp sợ",adj
+2873,impatiently,"nóng lòng,sốt ruột",adv
+2874,pan,"xoong,chảo",n
+2875,map,bản đồ,n
+2876,decide,"quyết định,giải quyết",v
+2877,kindness,"sự tử tế,lòng tốt",n
+2878,challenge,"sự thử thách,sự thách thức",n
+2879,challenge,"thách thức,thử thách",v
+2880,swallow,"nuốt,nuốt chửng",v
+2881,fry,"rán,chiên",v
+2882,fry,thịt rán,n
+2883,destroy,"phá,phá hoại,phá huỷ",v
+2884,fuel,"chất đốt,nhiên liệu",n
+2885,media,phương tiện truyền thông đại chúng,n
+2886,century,thế kỷ,n
+2887,time,"thời gian,thì giờ",n
+2888,broadly,"rộng,rộng rãi",adv
+2889,sock,"tất ngắn,miếng lót giày",n
+2890,underwater,"ở dưới mặt nước,dưới mặt nước",adj
+2891,stiff,"cứng,cứng rắn",adj
+2892,twice,hai lần,adv
+2893,cold,"lạnh,sự lạnh lẽo",adj
+2894,hurry,"sự vội vàng,sự gấp rút",v
+2895,rather,"thà.. còn hơn,thích... hơn",adv
+2896,rubber,cao su,n
+2897,pause,"tạm nghỉ,dừng",v
+2898,pause,"sự tạm nghỉ,sự tạm ngừng",n
+2899,complicate,"làm phức tạp,rắc rối",v
+2900,socially,có tính xã hội,adv
+2901,virus,vi rút,n
+2902,religion,tôn giáo,n
+2903,cry,"khóc,kêu la",v
+2904,cry,"sự khóc,tiếng khóc",n
+2905,empire,"đế chế,đế quốc",n
+2906,unlucky,"không gặp may,bất hạnh",adj
+2907,surround,"vây quanh,bao quanh",v
+2908,exercise,"bài tập,sự thi hành",n
+2909,exercise,"làm,thi hành",v
+2910,professor,"giáo sư,giảng viên",n
+2911,quarter,"1/4,15 phút",n
+2912,convince,"làm cho tin,thuyết phục",v
+2913,lay,"xếp,đặt",v
+2914,noise,"tiếng ồn,sự huyên náo",n
+2915,hook,cái móc,n
+2916,switch,"công tắc,roi",n
+2917,switch,"tắt,bật,đánh bằng gậy",v
+2918,throughout,"khắp nơi,từ đầu đến cuối",adv
+2919,publishing,"công việc,nghề xuất bản",n
+2920,transfer,"dời,di chuyển",v
+2921,transfer,"sự di chuyển,sự dời chỗ",n
+2922,show,"biểu diễn,trưng bày",v
+2923,show,"sự biểu diễn,sự bày tỏ",n
+2924,culture,"văn hóa,sự mở mang",n
+2925,party,"tiệc,buổi liên hoan",n
+2926,relaxing,"làm giảm,bớt căng thẳng",adj
+2927,well known,"nổi tiếng,được nhiều người biết đến",adj
+2928,advertise,"báo cho biết,báo cho biết trước",v
+2929,steer,"hướng theo",v
+2931,relate,"kể lại,thuật lại",v
+2932,pleasure,"niềm vui thích,điều thích thú",n
+2933,disease,"căn bệnh,bệnh tật",n
+2934,carelessly,"cẩu thả,bất cẩn",adv
+2935,partly,"đến chừng mực nào đó,phần nào đó",adv
+2936,ensure,"bảo đảm,chắc chắn",v
+2937,career,"nghề nghiệp,sự nghiệp",n
+2938,outdoor,"ngoài trời,ở ngoài",adj
+2939,because,"bởi vì,vì",conj
+2940,equal,"ngang,bằng",n
+2941,equal,"người ngang hàng,ngang tài",v
+2942,selection,"sự lựa chọn,sự chọc lọc",n
+2943,off,tắt,adv
+2944,off,"khỏi,cách",prep
+2945,nest,"tổ,ổ",n
+2946,nest,làm tổ,v
+2947,jam,mứt,n
+2948,trick,"mưu mẹo,thủ đoạn",n
+2949,trick,"lừa,lừa gạt",v
+2950,emphasis,"sự nhấn mạnh,tầm quan trọng",n
+2951,scientific,"khoa học,có tính khoa học",adj
+2952,frame,"cấu trúc,hệ thống",n
+2953,frame,"dàn xếp,bố trí",v
+2954,publicly,"công khai,công cộng",adv
+2955,decay,"tình trạng suy tàn,suy sụp",n
+2956,sadly,"một cách buồn bã,đáng buồn là",adv
+2957,quietly,"lặng,yên lặng",adv
+2958,decrease,"giảm bớt,làm suy giảm,sự giảm đi",v
+2959,origin,"gốc,nguồn gốc",n
+2960,encounter,"chạm chán,bắt gặp",v
+2961,encounter,"sự chạm trán,sự bắt gặp",n
+2962,sauce,"nước xốt,nước chấm",n
+2963,deposit,"vật gửi,tiền gửi",n
+2964,deposit,"gửi,đặt cọc",v
+2965,instead,để thay thế,adv
+2966,politics,"họat động chính trị,đời sống chính trị",n
+2967,atom,nguyên tử,n
+2968,reform,"cải cách,cải thiện",v
+2969,reform,"sự cải cách,sự cải thiện",n
+2970,honestly,"lương thiện,trung thực",adj
+2971,series,"loạt,dãy",n
+2972,split,"chẻ,tách",v
+2973,split,"sự chẻ,sự tách",n
+2974,source,nguồn,n
+2975,day,"ngày,ban ngày",n
+2976,strong,"khỏe,mạnh,bền",adj
+2977,ignore,"phớt lờ,tỏ ra không biết đến",v
+2978,capable of,"có tài,có năng lực",adj
+2979,insult,"lăng mạ,xỉ nhục",v
+2980,insult,"lời lăng mạ,sự xỉ nhục",n
+2981,temporarily,"tính chất tạm thời,nhất thời",adv
+2982,separately,"không cùng nhau,thành người riêng",adv
+2983,regularly,"đều đặn,thường xuyên",adv
+2984,illness,"sự đau yếu,ốm",n
+2985,cheaply,"rẻ,rẻ tiền",adv
+2986,crop,vụ mùa,n
+2987,business,"việc buôn bán,thương mại",n
+2988,concentration,"sự tập trung,nơi tập trung",n
+2989,unemployment,"sự thất nghiệp,nạn thất nghiệp",n
+2990,surface,"mặt,bề mặt",n
+2991,unsteady,"không đúng mực,không chắc",adj
+2992,meat,thịt,n
+2993,sewing,"sự khâu,sự may vá",n
+2994,absent,"vắng mặt,nghỉ",adj
+2995,hairdresser,thợ làm tóc,n
+2996,farm,trang trại,n
+2997,comedy,hài kịch,n
+2998,afternoon,buổi chiều,n
+2999,price,giá,n
+3000,butter,bơ,n
+3001,final,"cuối cùng,cuộc đấu chung kết",adj
+3002,suitable,"hợp,phù hợp",adj
+3003,swimming pool,bể nước,n
+3004,cash,"tiền,tiền mặt",n
+3005,reject,"không chấp nhận,loại bỏ",v
+3006,alive,"sống,vẫn còn sống",adj
+3007,including,"bao gồm,kể cả",prep
+3008,question,câu hỏi,n
+3009,question,"hỏi,chất vấn",v
+3010,dozen,det. tá,n
+3011,community,"dân chúng,nhân dân",n
+3012,trade,"thương mại,buôn bán",n
+3013,trade,"buôn bán,trao đổi",v
+3014,wave,"sóng,gợn nước",n
+3015,wave,"gợn sóng,uốn thành sóng",v
+3016,except,"trừ ra,không kể",prep
+3017,except,trừ phi,conj
+3018,relief,"sự giảm nhẹ,sự làm cho khuây khỏa",n
+3019,impressed,"được ghi,khắc",adj
+3020,drama,"kịch,tuồng",n
+3021,sweater,"người ra mồ hôi,kẻ bóc lột lao động",n
+3022,brightly,"sáng chói,tươi",adv
+3023,killing,"sự giết chóc,sự tàn sát",n
+3024,activity,"sự tích cực,sự hoạt động,sự hăng hái",n
+3025,inevitable,"không thể tránh được,chắc chắn xảy ra",adj
+3026,horse,ngựa,n
+3027,delighted,"vui mừng,hài lòng",adj
+3028,real,"thực,thực tế",adj
+3029,wedding,"lễ cưới,hôn lễ",n
+3030,leaf,"lá cây,lá",n
+3031,port,cảng,n
+3032,pride,"sự kiêu hãnh,sự hãnh diện",n
+3033,embarrass,"lúng túng,làm ngượng nghịu",v
+3034,library,thư viện,n
+3035,smile,"cười,mỉm cười",v
+3036,smile,"nụ cười,vẻ tươi cười",n
+3037,clock,đồng hồ,n
+3038,inability,"sự bất lực,bất tài",n
+3039,bomb,quả bom,n
+3040,bomb,"đánh bom,thả bom",v
+3041,stroke,"cú đánh,cú đòn",n
+3042,stroke,"cái vuốt ve,sự vuốt ve",v
+3043,located,định vị,adj
+3044,analyse,phân tích,v
+3045,rapidly,"nhanh,nhanh chóng",adv
+3046,mostly,"hầu hết,chủ yếu là",adv
+3047,inner,"ở trong,nội bộ",adj
+3048,repeated,"được nhắc lại,được lặp lại",adj
+3049,draw,"vẽ,kéo",v
+3050,copy,"bản sao,bản chép lại",n
+3051,copy,sự sao chép,v
+3052,guess,"đoán,phỏng đoán",v
+3053,guess,"sự đoán,sự ước chừng",n
+3054,width,"tính chất rộng,bề rộng",n
+3055,biscuit,bánh quy,n
+3056,preference,"sự thích hơn,sự ưa hơn",n
+3057,training,"sự dạy dỗ,sự huấn luyện",n
+3058,increasingly,tăng thêm,adv
+3059,theory,"lý thuyết,học thuyết",n
+3060,disappear,"biến mất,biến đi",v
+3061,actually,"hiện nay,hiện tại",adv
+3062,overcome,"thắng,chiến thắng,khắc phục",v
+3063,lung,phổi,n
+3064,figure,"hình dáng,nhân vật",n
+3065,figure,"hình dung,miêu tả",v
+3066,operation,"sự hoạt động,quá trình hoạt động",n
+3069,around,"xung quanh,vòng quanh","adv"
+3070,twisted,"được xoắn,được cuộn",adj
+3071,church,nhà thờ,n
+3072,tooth,răng,n
+3073,bright,"sáng,sáng chói",adj
+3074,effect,"hiệu ứng,hiệu quả",n
+3075,conversation,"cuộc đàm thoại,cuộc trò chuyện",n
+3076,ruined,"bị hỏng,bị đổ nát",adj
+3077,daughter,con gái,n
+3078,unexpectedly,"bất ngờ,đột ngột",adv
+3079,extraordinary,"đặc biệt,lạ thường",adj
+3080,piece,"mảnh,mẩu",n
+3081,east,"hướng đông,phía đông,đông",n
+3082,engineer,kỹ sư,n
+3083,governor,"thủ lĩnh,chủ",n
+3084,unload,"cất gánh nặng,dỡ hàng",v
+3085,fix,"đóng,gắn",v
+3086,tendency,"xu hướng,chiều hướng",n
+3087,celebrate,"kỷ niệm,làm lễ kỷ niệm",v
+3088,threat,"sự đe dọa,lời đe dọa",n
+3089,beef,thịt bò,n
+3090,resource,tài nguyên,n
+3091,occupied,"đang sử dụng,đầy",adj
+3092,pick,"cuốc,đào,khoét",v
+3093,pick,"cuốc chim",n
+3094,demand,"sự đòi hỏi,sự yêu cầu",n
+3095,demand,"đòi hỏi,yêu cầu",v
+3096,envelope,phong bì,n
+3097,lost,"thua,mất",adj
+3098,attorney,người được ủy quyền,n
+3099,rumour,"tin đồn,lời đồn",n
+3100,stop,"dừng,ngừng,nghỉ",v
+3101,stop,"sự dừng,sự ngừng",n
+3102,dramatic,"như kịch,như đóng kịch",adj
+3103,grocery,cửa hàng tạp phẩm,n
+3104,unwillingly,miễn cưỡng,adv
+3105,goal,"khung thành,bàn thắng,đích",n
+3106,throw,"ném,vứt",v
+3107,kind,"loại,giống",n
+3108,kind,"tử tế,có lòng tốt",adj
+3109,landscape,phong cảnh,n
+3110,joy,"niềm vui,sự vui mừng",n
+3111,block,"khối,tảng",n
+3112,block,"làm ngăn cản,ngăn chặn",v
+3113,reverse,"đảo,ngược lại",v
+3114,reverse,"điều trái ngược,mặt trái",n
+3115,baggage,hành lý,n
+3116,display,"bày tỏ,phô trương",v
+3117,display,"sự bày ra,phô bày",n
+3118,short,"ngắn,cụt",adj
+3119,equipment,"trang,thiết bị",n
+3120,shave,"cạo,bào",v
+3121,hear,nghe,v
+3122,contribute,"đóng góp,góp phần",v
+3123,onion,củ hành,n
+3124,emergency,tình trạng khẩn cấp,n
+3125,widely,"nhiều,xa",adv
+3126,vast,"rộng lớn,mênh mông",adj
+3127,infect,"nhiễm,tiêm nhiễm,đầu độc",v
+3128,future,tương lai,n
+3129,pilot,phi công,n
+3130,command,"v) ra lệnh,chỉ huy",n
+3131,income,"lợi tức,thu nhập",n
+3132,just,"đúng,vừa đủ",adv
+3133,seek,"tìm,tìm kiếm,theo đuổi",v
+3134,fill,"làm đấy,lấp kín",v
+3135,spoil,"cướp,cướp đọat",v
+3136,terrible,"khủng khiếp,ghê sợ",adj
+3137,remote,"xa,xa xôi",adj
+3138,accurately,"đúng đắn,chính xác",adv
+3139,offensive,"sự tấn công,cuộc tấn công",adj
+3140,mathematics,"toán học,môn toán",n
+3141,normal,"thường,bình thường",adj
+3142,normal,tình trạng bình thường,n
+3143,free,"miễn phí,tự do,giải phóng",adj
+3144,method,"phương pháp,cách thức",n
+3145,confused,"bối rối,lúng túng",adj
+3146,shoe,giày,n
+3147,soul,"tâm hồn,tâm trí",n
+3148,within,"trong vong thời gian,trong khoảng thời gian",prep
+3149,bent,"khiếu,sở thích",adj
+3150,arrest,"bắt giữ,sự bắt giữ",v
+3151,image,"ảnh,hình ảnh",n
+3152,operate,"hoạt động,điều khiển",v
+3153,wounded,bị thương,adj
+3154,live,"sống,hoạt động",v
+3155,purchase,"sự mua,sự tậu",n
+3156,purchase,"mua,sắm",v
+3157,diary,sổ nhật ký,n
+3158,mayor,thị trưởng,n
+3159,shower,"vòi hoa sen,sự tắm vòi hoa sen",n
+3160,gather,tập hợp,v
+3161,double,"đôi,hai",adj
+3162,double,"cái gấp đôi,lượng gấp đôi",adv
+3163,double,làm gấp đôi,n
+3164,shelter,"sự nương tựa,sự che chở",n
+3165,shelter,"che chở,bảo vệ",v
+3166,concerning,"bâng khuâng,ái ngại",prep
+3167,beard,râu,n
+3168,really,"thực,thực ra",adv
+3169,light,ánh sáng,n
+3170,light,"nhẹ,nhẹ nhàng",adj
+3171,light,"đốt,thắp sáng",v
+3172,chairman,"chủ tịch,chủ tọa",n
+3173,guy,"bù nhìn,anh chàng",n
+3174,unfair,"gian lận,không công bằng",adj
+3175,sand,cát,n
+3176,closet,"buồng,phòng để đồ",n
+3177,away,"xa,xa cách,rời xa",adv
+3178,every,"mỗi,mọi",adj
+3179,mount,"leo,trèo",v
+3180,mount,núi,n
+3181,fetch,"tìm về,đem về",v
+3182,middle,"giữa,ở giữa",n
+3183,forest,rừng,n
+3184,substantial,"thực tế,đáng kể",adj
+3185,summary,bản tóm tắt,n
+3186,invitation,"lời mời,sự mời",n
+3187,problem,"vấn đề,điều khó giải quyết",n
+3188,salty,"chứ vị muối,có muối",adj
+3189,requirement,"nhu cầu,sự đòi hỏi",n
+3190,all,tất cả,n
+3191,start,"bắt đầu,khởi động",v
+3192,start,"sự bắt đầu,sự khởi đầu",n
+3193,unable,"không thể,không có khẳ năng",adj
+3194,voice,"tiếng,giọng nói",n
+3195,volume,"thế tích,quyển",n
+3196,member,"thành viên,hội viên",n
+3197,lift,"giơ lên,nhấc lên",v
+3198,lift,"sự nâng,sự nhấc lên",n
+3199,remaining,còn lại,adj
+3200,natural,"tự nhiên,thiên nhiên",adj
+3201,lend,"cho vay,cho mượn",v
+3202,contrast,sự tương phản,n
+3203,contrast,"làm tương phản,trái ngược",v
+3204,warmth,"trạng thái ấm,sự ấm áp",n
+3205,immediate,"lập tức,tức thì",adj
+3206,description,"sự mô tả,sự tả",n
+3207,instruction,"sự dạy,tài liệu cung cấp",n
+3208,similarly,"tương tự,giống nhau",adv
+3209,can,có thể,v
+3210,can,"nhà tù,nhà giam,bình",n
+3211,dark,"tối,tối tăm",adj
+3212,dark,"bóng tối,ám muội",n
+3213,indication,"sự chỉ,sự biểu thị",n
+3214,addition,"tính cộng,phép cộng",n
+3215,retire,"rời bỏ,rút về",v
+3216,stage,"tầng,bệ",n
+3217,plate,"bản,tấm kim loại",n
+3218,expose,"trưng bày,phơi bày",v
+3219,leather,da thuộc,n
+3220,dish,đĩa,n
+3221,try,"thử,cố gắng",v
+3222,fee,"tiền thù lao,học phí",n
+3223,unkind,"không tốt,độc ác",adj
+3224,federal,liên bang,adj
+3225,curly,"quăn,xoắn",adj
+3226,means,"của cải,tài sản",n
+3227,take,"sự cầm nắm,sự lấy",v
+3228,disgusted,"chán ghét,phẫn nộ",adj
+3229,penny,"đồng xu,số tiền",n
+3230,associate,"kết giao,liên kết,kết hợp",v
+3231,master,"chủ,chủ nhân,thầy giáo",n
+3232,school,"đàn cá,bầy cá",n
+3233,phase,tuần trăng,n
+3234,abandon,"bỏ,từ bỏ",v
+3235,classic,"cổ điển,kinh điển",adj
+3236,vocabulary,từ vựng,n
+3237,pain,"sự đau đớn,sự đau khổ",n
+3238,district,"huyện,quận",n
+3239,victory,chiến thắng,n
+3240,gentleman,"người quý phái,người thượng lưu",n
+3241,noticeable,"đáng chú ý,đáng để ý",adj
+3242,vegetable,"rau,thực vật",n
+3243,various,"khác nhau,thuộc về nhiều loại",adj
+3244,recover,"lấy lại,giành lại",v
+3245,general,"chung,chung chung",adj
+3246,retirement,"sự ẩn dật,nơi hẻo lánh,sự về hưu",n
+3247,sailing,sự đi thuyền,n
+3248,amusable,"có thể làm vui được,có thể giải trí được",adj
+3249,although,"mặc dù,dẫu cho",conj
+3250,single,"đơn,đơn độc",adj
+3251,painter,họa sĩ,n
+3252,holy,linh thiêng,adj
+3253,castle,"thành trì,thành quách",n
+3254,knock,"đánh,đập",v
+3255,knock,cú đánh,n
+3256,locally,"có tính chất địa phương,cục bộ",adv
+3257,illegally,"trái luật,bất hợp pháp",adv
+3258,discovery,"sự khám phá,sự tìm ra",n
+3259,soon,"sớm,chẳng bao lâu nữa",adv
+3260,lane,đường nhỏ,n
+3261,interval,"khoảng,khoảng cách",n
+3262,cancel,"hủy bỏ,xóa bỏ",v
+3263,depth,"chiều sâu,độ dày",n
+3264,tea,"cây chè,trà",n
+3265,headache,chứng nhức đầu,n
+3266,feed,"cho ăn,nuôi",v
+3267,black,đen,adj
+3268,black,màu đen,n
+3269,backward,"về phía sau,lùi lại",adj
+3270,send,"gửi,phái đi",v
+3271,interesting,"làm thích thú,làm quan tâm",adj
+3272,revise,"đọc lại,xem lại,sửa lại",v
+3273,turn,"quay,xoay",v
+3274,turn,"sự quay,vòng quay",n
+3275,venture,"sự án kinh doanh,công việc kinh doanh",n
+3276,venture,"liều,mạo hiểm",v
+3277,duty,"sự tôn kính,kính trọng",n
+3278,shoot,"vụt qua,chạy qua,ném",v
+3279,sail,"đi tàu,thuyền",v
+3280,sail,"buồm,cánh buồm",n
+3281,according to,"theo,y theo",prep
+3282,park,"công viên,vườn hoa",n
+3283,park,khoanh vùng thành công viên,v
+3284,barrier,đặt chướng ngại vật,n
+3285,accent,"trọng âm,dấu trọng âm",n
+3286,blow,nở hoa,v
+3287,blow,sự nở hoa,n
+3288,employee,"người lao động,người làm công",n
+3289,world,thế giới,n
+3290,thread,"chỉ,sợi chỉ",n
+3291,alongside,"sát cạnh,kế bên",prep
+3292,conclude,"kết luận,kết thúc",v
+3293,blind,"đui,mù",adj
+3294,scream,"gào thét,kêu lên",v
+3295,scream,"tiếng thét,tiếng kêu to",n
+3296,pet,cơn nóng giận,n
+3297,exaggerated,"cường điệu,phòng đại",adj
+3300,walking,"sự đi,sự đi bộ",n
+3301,background,phía sau,n
+3302,saving,"sự cứu,sự tiết kiệm",n
+3303,hunting,sự đi săn,n
+3304,prison,nhà tù,n
+3305,favour,"thiện ý,sự quý mến",n
+3306,swing,"sự đu đưa,lúc lắc",n
+3307,swing,"đánh đu,đu đưa",v
+3308,shoulder,vai,n
+3309,kindly,"tử tế,tốt bụng",adv
+3310,property,"tài sản,của cải",n
+3311,angry,"giận,tức giận",adj
+3312,serious,"đứng đắn,nghiêm trang",adj
+3313,wise,"khôn ngoan,sáng suốt",adj
+3314,adventure,"sự phiêu lưu,mạo hiểm",n
+3315,per,cho mỗi,prep
+3316,horn,sừng,n
+3317,theme,"đề tài,chủ đề",n
+3318,learn,"học,nghiên cứu",v
+3319,prepare,"sửa soạn,chuẩn bị",v
+3320,king,"vua,quốc vương",n
+3321,downward,"xuống,đi xuống",adj
+3322,explore,"thăm dò,thám hiểm",v
+3323,precisely,"đúng,chính xác",adv
+3324,accompany,"đi theo,đi cùng",v
+3325,certain,pro chắc chắn,adj
+3328,knife,con dao,n
+3329,part,"phần,bộ phận",n
+3330,despite,"dù,mặc dù",prep
+3331,furthest,"xa hơn hết,xa nhất",adj
+3332,spell,đánh vần,v
+3333,spell,"sự thu hút,sự quyến rũ",n
+3334,pace,"bước chân,bước",n
+3335,schedule,"kế hoạch làm việc,bản liệt kê",n
+3336,schedule,"lên thời khóa biểu,lên kế hoạch",v
+3337,entrance,"sự đi vào,sự nhậm chức",n
+3338,latter,"sau cùng,gần đây",adj
+3339,cap,"mũ lưỡi trai,mũ vả",n
+3340,technology,"kỹ thuật học,công nghệ học",n
+3341,pity,"lòng thương hại,điều đáng tiếc",n
+3342,youth,"tuổi trẻ,tuổi xuân,tuổi thanh niên",n
+3343,swimming,sự bơi lội,n
+3344,untidy,"không gọn gàng,không ngăn nắp",adj
+3345,servant,"người hầu,đầy tớ",n
+3346,pose,"đưa ra,đề ra",v
+3347,pose,"sự đặt,đề ra",n
+3348,commit,"giao,gửi,ủy nhiệm",v
+3349,brave,"gan dạ,can đảm",adj
+3350,harm,"thiệt hại,tổn hao",n
+3351,harm,"làm hại,gây thiệt hại",v
+3352,needle,"cái kim,mũi nhọn",n
+3353,effectively,"có kết quả,có hiệu lực",adv
+3354,desperate,"liều mạng,liều lĩnh",adj
+3355,item,tin tức,n
+3356,item,"khoả.,mó..",n
+3357,entertainment,"sự giải trí,sự tiếp đãi",n
+3358,dirty,"bẩn thỉu,dơ bẩn",adj
+3359,delay,"sự chậm trễ,sự trì hoãn",n
+3360,delay,làm chậm trễ,v
+3361,wrapping,"vật bao bọc,vật quấn quanh",n
+3362,prior,"trước,ưu tiên",adj
+3363,toe,ngón chân,n
+3364,climb,"leo,trèo",v
+3365,whatever,"pro bất cứ thứ gì,bất kể thứ gì",n
+3366,information,"tin tức,tài liệu",n
+3367,sir,"xưng hô lịch sự Ngài,Ông",n
+3368,resist,"chống lại,phản đổi",v
+3369,removal,"viêc di chuyển,việc dọn nhà",n
+3370,ancient,"xưa,cổ",adj
+3371,jump,nhảy,v
+3372,jump,"sự nhảy,bước nhảy",n
+3373,spice,gia vị,n
+3374,punish,"phạt,trừng phạt",v
+3375,journalist,nhà báo,n
+3376,empty,"trống,rỗng",adj
+3377,empty,"đổ,dốc",v
+3378,remove,"dời đi,di chuyển",v
+3379,poor,nghèo,adj
+3380,speed,"tốc độ,vận tốc",n
+3381,nearly,"gần,sắp",adv
+3382,spicy,có gia vị,adj
+3383,unacceptable,không thể chấp nhận,adj
+3384,fair,"hợp lý,công bằng",adj
+3385,interpretation,sự giải thích,n
+3386,store,"cửa hàng,kho hàng",n
+3387,store,"tích trữ,cho vào kho",v
+3388,salary,tiền lương,n
+3389,tape,"băng,băng ghi âm",n
+3390,realize,"thực hiện,thực hành",v
+3391,enter,"đi vào,gia nhập",v
+3392,breed,"nuôi dưỡng,chăm sóc",v
+3393,breed,sinh đẻ,n
+3394,financial,thuộc,adj
+3395,bank,"bờ,đê",n
+3396,leg,chân,n
+3397,electrical,điện,adj
+3398,save,"cứu,lưu",v
+3399,stair,bậc thang,n
+3400,alternative,sự lựa chọn,n
+3401,alternative,lựa chọn,adj
+3402,tire,"làm mệt mỏi,trở nên mệt nhọc",v
+3403,tire,"lốp,vỏ xe",n
+3404,habit,"thói quen,tập quán",n
+3405,lord,"Chúa,vua",n
+3406,sit,ngồi,v
+3407,informal,"không chính thức,không nghi thức",adj
+3408,safe,"an toàn,chắc chắn",adj
+3409,justice,sự công bằng,n
+3410,winning,"đang dành thắng lợi,thắng cuộc",adj
+3411,sympathetic,"đồng cảm,đáng mến",adj
+3412,revision,"sự xem lại,sự đọc lại,sự sửa lại",n
+3413,approximately,"khoảng chừng,độ chừng",adv
+3414,favourite,được ưa thích,adj
+3415,favourite,người được ưa thích,n
+3416,large,"rộng,lớn",adj
+3417,ruin,"làm hỏng,làm đổ nát",v
+3418,ruin,"sự hỏng,sự đổ nát",n
+3419,heal,"chữa khỏi,làm lành",v
+3420,team,"đội,nhóm",n
+3421,petrol,xăng dầu,n
+3422,comparison,sự so sánh,n
+3423,tradition,truyền thống,n
+3424,board,tấm ván,n
+3425,board,"lát ván,lót ván",v
+3426,investigation,"sự điều tra,nghiên cứu",n
+3427,inevitably,chắc chắn,adv
+3428,danger,"sự nguy hiểm,mối hiểm nghèo",n
+3429,right,"thẳng,phải",adj
+3430,right,"ngay,đúng",adv
+3431,right,"điều thiện,điều phải",n
+3432,mistake,"lỗi,sai lầm",n
+3433,mistake,"phạm lỗi,phạm sai lầm",v
+3434,countryside,"miền quê,miền nông thôn",n
+3435,word,từ,n
+3436,domestic,"vật nuôi trong nhà,nội trợ",adj
+3437,transparent,trong suốt,adj
+3438,reaction,sự phản ứng,n
+3439,parallel,"song song,tương đương",adj
+3440,responsibility,"trách nhiệm,sự chịu trách nhiệm",n
+3441,gas,"khí,hơi đốt",n
+3442,outline,"vẽ,phác tảo",v
+3443,outline,"đường nét,hình dáng",n
+3444,admiration,"sự khâm phục,người khâm phục",n
+3445,cruel,"độc ác,dữ tợn",adj
+3446,grass,cỏ,n
+3447,striking,"nổi bật,gây ấn tượng",adj
+3448,several,pro nhiều hơn ba,adj
+3449,several,vài,n
+3450,pink,màu hồng,adj
+3451,pink,"hoa cẩm chướng,tình trạng tốt",n
+3452,tank,"thùng,két",n
+3453,print,"in,xuất bản",v
+3454,print,sự in ra,n
+3455,wish,"ước,mong muốn",v
+3456,wish,"sự mong ước,lòng mong muốn",n
+3457,probable,"có thể,có khả năng",adj
+3458,extend,"giơ,duỗi ra",v
+3459,extend,"kéo dài,dành cho",n
+3460,luck,"may mắn,vận may",n
+3461,reflect,"phản chiếu,phản hồi",v
+3462,ankle,mắt cá chân,n
+3463,idea,"ý tưởng,quan niệm",n
+3464,good,"tốt,hay",adj
+3465,good,"điều tốt,điều thiện",n
+3466,university,trường đại học,n
+3467,pronunciation,sự phát âm,n
+3468,attempted,"cố gắng,thử",adj
+3469,stick,"đâm,thọc,chọc",v
+3470,stick,"cái gậy,qua củi",n
+3471,environment,"môi trường,hoàn cảnh xung quanh",n
+3472,pack,"gói,bọc",v
+3473,pack,"bó,gói",n
+3474,acknowledge,"công nhận,thừa nhận",v
+3475,strictly,một cách nghiêm khắc,adv
+3476,miss,"lỡ,trượt",v
+3477,miss,"sự trượt,sự thiếu vắng",n
+3478,complaint,"lời than phiền,than thở",n
+3479,weigh,"cân,cân nặng",v
+3480,exam,viết tắt của Examination,n
+3481,hill,đồi,n
+3482,explode,"đập tan,làm nổ",v
+3483,extra,"thêm,phụ",adj
+3484,extra,"thứ thêm,phụ",n
+3485,continuously,"liên tục,liên tiếp",adv
+3486,order,"thứ,bậc",n
+3487,order,ra lệnh,v
+3488,art,"nghệ thuật,mỹ thuật",n
+3489,clever,"lanh lợi,thông minh. tài giỏi",adj
+3490,system,"hệ thống,chế độ",n
+3491,coat,áo choàng,n
+3492,reveal,"bộc lộ,biểu lộ",v
+3493,valley,thung lũng,n
+3494,enquiry,"sự điều tra,sự thẩm vấn",n
+3495,credit card,thẻ tín dụng,n
+3496,bath,sự tắm,n
+3497,group,nhóm,n
+3498,beyond,"ở xa,phía bên kia",prep
+3499,whilst,"trong lúc,trong khi",conj
+3500,exchange,trao đổi,v
+3501,exchange,sự trao đổi,n
+3502,traditionally,"truyền thống,là truyền thống",adv
+3503,sector,"khu vực,lĩnh vực",n
+3504,climate,"khí hậu,thời tiết",n
+3505,thickness,"tính chất dày,độ dày",n
+3506,apologize,"xin lỗi,tạ lỗi",v
+3507,dominate,"chiếm ưu thế,có ảnh hưởng",v
+3508,increase,"tăng,tăng thêm",v
+3509,increase,"sự tăng,sự tăng thêm",n
+3510,constantly,kiên định,adv
+3511,none,"pro không ai,không người",n
+3512,rope,"dây cáp,dây thừng,xâu",n
+3513,appear,"xuất hiện,hiện ra",v
+3514,drawing,"bản vẽ,bức vẽ",n
+3515,variation,"sự biến đổi,sự thay đổi mức độ",n
+3516,shaped,có hình dáng được chỉ rõ,adj
+3517,water,nước,n
+3518,scale,vảy,n
+3519,pleased,hài lòng,adj
+3520,customs,"thuế nhập khẩu,hải quan",n
+3521,fun,"sự vui đùa,sự vui thích",n
+3522,fun,hài hước,adj
+3523,dirt,"đồ bẩn thỉu,đồ dơ bẩn",n
+3524,safely,"an toàn,chắc chắn",adv
+3525,coach,huấn luyện viên,n
+3526,friendly,"thân thiện,thân mật",adj
+3527,regard,"nhìn,đánh giá",v
+3528,regard,"cái nhìn,sự quan tâm",n
+3529,ahead,"trước,về phía trước",adv
+3530,trip,"cuộc dạo chơi,cuộc du ngoạn",n
+3531,trip,"đi dạo,du ngoạn",v
+3532,fancy,"tưởng tượng,cho",v
+3533,fancy,tưởng tượng,adj
+3534,tablet,"tấm,bản",n
+3535,spelling,sự viết chính tả,n
+3536,chip,"vỏ bào,mảnh vỡ,chỗ sứt",n
+3537,crime,"tội,tội ác",n
+3538,bandage,dải băng,n
+3539,bandage,băng bó,v
+3540,salt,muối,n
+3541,lady,"người yêu,vợ,quý bà",n
+3542,lacking,"ngu đần,ngây ngô",adj
+3543,differently,"khác,khác biệt",adv
+3544,bunch,"búi,chùm,bó",n
+3545,court,"sân,sân,tòa án",n
+3546,parliament,"nghi viện,quốc hội",n
+3547,adjust,"sửa lại cho đúng,điều chỉnh",v
+3548,comfortable,"thoải mái,tiện nghi",adj
+3549,ink,mực,n
+3550,cottage,nhà tranh,n
+3551,silent,"im lặng,yên tĩnh",adj
+3552,smoking,sự hút thuốc,n
+3553,separation,"sự chia cắt,phân ly,sự chia tay",n
+3554,click,làm thành tiếng lách cách,v
+3555,click,"tiếng lách cách,cú nhắp",n
+3557,blonde,"cô gái tóc hoe,người đàn bà tóc hoe",n
+3558,sensitive,"dễ bị thương,dễ bị hỏng",adj
+3559,brown,"nâu,màu nâu",adj
+3560,lake,hồ,n
+3561,matching,"tính địch thù,thi đấu",adj
+3562,cope with,"đối phó,đương đầu",v
+3563,north,"phía bắc,phương bắc",n
+3564,mad,"điên,mất trí",adj
+3565,considerable,"lớn lao,to tát",adj
+3566,lean,"nghiêng,dựa",v
+3567,wallet,cái ví,n
+3568,dust,"bụi,rác",n
+3569,dust,"rắc,quét bụi",v
+3570,failure,"sự thất bại,người thất bại",n
+3571,spring,mùa xuân,n
+3572,wooden,làm bằng gỗ,adj
+3573,production,"sự sản xuất,chế tạo",n
+3574,surprised at,ngạc nhiên,adj
+3575,rough,"gồ ghề,lởm chởm",adj
+3576,colour,màu sắc,n
+3577,colour,tô màu,v
+3578,application,"sự gắn vào,vật gắn vào",n
+3579,trial,"sự thử nghiệm,cuộc thử nghiệm",n
+3580,policy,"chính sách,cách xử sự,điều khoản",n
+3581,restricted,"bị hạn chế,có giới hạn",adj
+3582,urge,"thúc,giục",v
+3583,urge,"sự thúc đẩy,sự thôi thúc",n
+3584,become,"trở thành,trở nên",v
+3585,depressed,"chán nản,thất vọng",adj
+3586,strength,"sức mạnh,sức khỏe",n
+3587,priest,"linh mục,thầy tu",n
+3588,stay,"ở lại,lưu lại",v
+3589,stay,"sự ở lại,sự lưu lại",n
+3590,overall,"toàn bộ,toàn thể",adj
+3591,overall,"tất cả,bao gồm",adv
+3592,grandson,cháu trai,n
+3593,elsewhere,ở một nơi nào khác,adv
+3594,rounded,bị làm thành tròn,adj
+3595,code,"mật mã,luật",n
+3596,practice,"thực hành,thực tiễn",n
+3597,amaze,"làm ngạc nhiên,làm sửng sốt",v
+3598,decade,"thập kỷ,bộ mười",n
+3599,construction,"sự xây dựng,công trình",n
+3600,strange,"xa lạ,chưa quen",adj
+3601,occur,"xảy ra,xảy đến",v
+3602,knit,"đan,thêu",v
+3603,hunt,"săn,đi săn",v
+3604,subject,"chủ đề,đề tài",n
+3605,quiet,"lặng,yên lặng",adj
+3606,sort,"thứ,hạng loại",n
+3607,sort,"lựa chọn,sắp xếp",v
+3608,bargain,"sự mặc cả,sự giao kèo mua bán",n
+3609,openly,"công khai,thẳng thắn",adv
+3610,explanation,"sự giải nghĩa,giải thích",n
+3611,worse,"xấu hơn,tồi hơn",adj
+3612,crown,"vương miện,vua",n
+3613,accommodation,"sự thích nghi,điều tiết",n
+3614,clothing,"quần áo,y phục",n
+3615,calculation,sự tính toán,n
+3616,screen,"màn che,màn ảnh",n
+3617,silence,"sự im lặng,sự yên tĩnh",n
+3618,opposite,"prep.đối nhau,ngược nhau",adj
+3619,opposite,"trước mặt,đối diện",adv
+3620,opposite,điều trái ngược,n
+3621,option,sự lựa chọn,n
+3622,cent,đồng xu,n
+3623,exception,"sự trừ ra,sự loại ra",n
+3624,child,"đứa bé,đứa trẻ",n
+3625,ride,"đi,cưỡi",v
+3626,ride,"sự đi,đường đi",n
+3627,embarrassing,"làm lúng túng,ngăn trở",adj
+3628,finally,"cuối cùng,sau cùng",adv
+3629,age,tuổi,n
+3630,kick,đá,v
+3631,kick,cú đá,n
+3632,body,"thân thể,thân xác",n
+3633,trap,"đồ đạc,hành lý",n
+3634,trap,"bẫy,cạm bãy",v
+3635,depress,"làm chán nản,làm phiền muộn",v
+3636,cooker,"lò,bếp",n
+3637,printing,"sự in,thuật in",n
+3638,remarkably,"đáng chú ý,đáng để ý",adv
+3639,couple,"đôi,cặp",n
+3640,wrong,sai,adj
+3641,anger,"sự tức giận,sự giận dữ",n
+3642,constant,"kiên trì,bền lòng",adj
+3643,remind,"nhắc nhở,gợi nhớ",v
+3644,sew,"may,khâu",v
+3645,predict,"báo trước,tiên đoán",v
+3646,upward,"lên,hướng lên",adj
+3647,represent,"miêu tả,hình dung",v
+3648,disappointing,"làm chán ngán,làm thất vọng",adj
+3649,surroundings,"vùng xung quanh,môi trường xung quanh",n
+3650,spirit,"tinh thần,tâm hồn",n
+3651,reading,sự đọc,n
+3652,offence,"sự vi phạm,sự phạm tội",n
+3653,rare,"hiếm,ít",adj
+3654,hence,"sau đây,kể từ đây",adv
+3655,creature,"sinh vật,loài vật",n
+3656,cardboard,"bìa cứng,các tông",n
+3657,skin,"da,vỏ",n
+3658,announce,"báo,thông báo",v
+3659,exhibit,"trưng bày,triển lãm",v
+3660,exhibit,"vật trưng bày,vật triển lãm",n
+3661,congratulations,"sự chúc mừng,khen ngợi",n
+3662,revolution,cuộc cách mạng,n
+3663,behave,"đối xử,ăn ở",v
+3664,unpleasant,"không dễ chịu,khó chịu",adj
+3665,performance,"sự làm,sự thực hiện,sự thi hành",n
+3666,annoy,"chọc tức,làm bực mình",v
+3667,mood,"lối,thức",n
+3668,moving,"động,hoạt động",adj
+3669,silver,"bạc,đồng bạc",n
+3670,silver,"làm bằng bạc,trắng như bạc",adj
+3671,glasses,kính đeo mắt,n
+3672,educate,"giáo dục,cho ăn học",v
+3673,spray,"máy,ống,bình phụt",n
+3674,spray,"bơm,phun",v
+3675,describe,"diễn tả,miêu tả",v
+3676,enjoyable,"thú vị,thích thú",adj
+3677,freshly,"tươi mát,khỏe khoắn",adv
+3678,south,"phương Nam,hướng Nam",n
+3679,south,ở phía Nam,adj
+3680,cooking,"sự nấu ăn,cách nấu ăn",n
+3681,tough,"chắc,bền",adj
+3682,circumstance,"hoàn cảnh,trường hợp",n
+3683,leading,"lãnh đạo,dẫn đầu",adj
+3684,science,"khoa học,khoa học tự nhiên",n
+3685,neither,pro không này mà cũng không kia,n
+3686,punishment,"sự trừng phạt,sự trừng trị",n
+3687,spread,"trải,căng ra",v
+3688,membership,"tư cách hội viên,địa vị hội viên",n
+3689,frightening,"kinh khủng,khủng khiếp",adj
+3690,unsuccessful,"không thành công,thất bại",adj
+3691,react,"tác động trở lại,phản ứng",v
+3692,estate,"tài sản,di sản",n
+3693,fruit,"quả,trái cây",n
+3694,diamond,kim cương,n
+3695,flag,quốc kỳ,n
+3696,unlikely,"không có thể xảy ra,không chắc chắn",adj
+3697,angrily,"tức giận,giận dữ",adv
+3698,virtually,"thực sự,hầu như",adv
+3699,cable,dây cáp,n
+3700,derive,"nhận được từ,bắt nguồn từ",v
+3702,corner,góc,n
+3703,platform,"nền,bục",n
+3704,association,"sự kết hợp,sự liên kết",n
+3705,owe,"nợ,hàm ơn",v
+3706,owe,có được,v2
+3707,confidence,"lòng tin tưởng,sự tin cậy",n
+3708,early,sớm,adj
+3709,rice,"gạo,thóc",n
+3710,tension,"sự căng,độ căng",n
+3711,drink,đồ uống,n
+3712,drink,uống,v

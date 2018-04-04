@@ -1,0 +1,9 @@
+rootProject.name = 'XTen'
+include ':realm'
+project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
+include ':react-native-tts'
+project(':react-native-tts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-tts/android')
+include ':react-native-blur'
+project(':react-native-blur').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-blur/android')
+
+include ':app'
